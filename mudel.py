@@ -5,12 +5,12 @@ import pandas as pd
 
 df = pd.read_csv("sisse.csv",header=0)
 
-
+# all units in kW
 MIN_BATTERY_CAPACITY = 0 
 MAX_BATTERY_CAPACITY = 1000 
 MAX_RAW_POWER = 200 
 INITIAL_CAPACITY = 0 
-EFFICIENCY = 0.97 
+EFFICIENCY = 0.97 # round trip, only applied at discharge
 MLF = 1 
 
 # Define model and solver
@@ -62,7 +62,7 @@ def max_charge(battery,i):
 
 # Defining the battery objective (function to be maximised)
 def maximise_profit(battery):
-    rev = sum(battery.Price[i] * (battery.Discharge_power[i]) * MLF for i in battery.Period)
+    rev = sum(battery.Price[i] * (battery.Discharge_power[i] * EFFICIENCY) * MLF for i in battery.Period)
     return rev
 
 
