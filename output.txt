@@ -1,0 +1,4465 @@
+Capacity at 0 is: 0.0
+Produced: 0.0
+price: 9.199
+Charge_power at 0 is: 0.0
+Discharge_power at 0 is: 0.0
+
+Capacity at 1 is: 0.0
+Produced: 0.0
+price: 3.149
+Charge_power at 1 is: 0.0
+Discharge_power at 1 is: 0.0
+
+Capacity at 2 is: 0.0
+Produced: 0.0
+price: 3.402
+Charge_power at 2 is: 0.0
+Discharge_power at 2 is: 0.0
+
+Capacity at 3 is: 0.0
+Produced: 0.0
+price: 3.669
+Charge_power at 3 is: 0.0
+Discharge_power at 3 is: 0.0
+
+Capacity at 4 is: 0.0
+Produced: 0.0
+price: 3.989
+Charge_power at 4 is: 0.0
+Discharge_power at 4 is: 0.0
+
+Capacity at 5 is: 0.0
+Produced: 0.505
+price: 4.255
+Charge_power at 5 is: 0.505
+Discharge_power at 5 is: 0.0
+
+Capacity at 6 is: 0.505
+Produced: 2.721
+price: 4.483
+Charge_power at 6 is: 2.721
+Discharge_power at 6 is: 0.0
+
+Capacity at 7 is: 3.226
+Produced: 8.083
+price: 4.789
+Charge_power at 7 is: 8.083
+Discharge_power at 7 is: 0.0
+
+Capacity at 8 is: 11.309
+Produced: 20.985
+price: 5.611
+Charge_power at 8 is: 20.985
+Discharge_power at 8 is: 0.0
+
+Capacity at 9 is: 32.294
+Produced: 34.419
+price: 6.555
+Charge_power at 9 is: 34.419
+Discharge_power at 9 is: 0.0
+
+Capacity at 10 is: 66.713
+Produced: 45.43
+price: 5.009
+Charge_power at 10 is: 45.43
+Discharge_power at 10 is: 0.0
+
+Capacity at 11 is: 112.143
+Produced: 40.552
+price: 4.943
+Charge_power at 11 is: 40.552
+Discharge_power at 11 is: 0.0
+
+Capacity at 12 is: 152.695
+Produced: 19.659
+price: 4.425
+Charge_power at 12 is: 19.659
+Discharge_power at 12 is: 0.0
+
+Capacity at 13 is: 172.354
+Produced: 25.446
+price: 4.19
+Charge_power at 13 is: 25.446
+Discharge_power at 13 is: 0.0
+
+Capacity at 14 is: 197.8
+Produced: 16.119
+price: 3.424
+Charge_power at 14 is: 16.119
+Discharge_power at 14 is: 0.0
+
+Capacity at 15 is: 213.919
+Produced: 34.363
+price: 2.991
+Charge_power at 15 is: 34.363
+Discharge_power at 15 is: 0.0
+
+Capacity at 16 is: 248.282
+Produced: 30.745
+price: 4.02
+Charge_power at 16 is: 30.745
+Discharge_power at 16 is: 0.0
+
+Capacity at 17 is: 279.027
+Produced: 26.937
+price: 5.196
+Charge_power at 17 is: 26.937
+Discharge_power at 17 is: 0.0
+
+Capacity at 18 is: 305.964
+Produced: 11.218
+price: 6.571
+Charge_power at 18 is: 11.218
+Discharge_power at 18 is: 0.0
+
+Capacity at 19 is: 317.182
+Produced: 2.414
+price: 7.504
+Charge_power at 19 is: 2.414
+Discharge_power at 19 is: 0.0
+
+Capacity at 20 is: 319.596
+Produced: 0.502
+price: 7.643
+Charge_power at 20 is: 0.502
+Discharge_power at 20 is: 0.0
+
+Capacity at 21 is: 320.098
+Produced: 0.0
+price: 7.504
+Charge_power at 21 is: 0.0
+Discharge_power at 21 is: 0.0
+
+Capacity at 22 is: 320.098
+Produced: 0.0
+price: 7.237
+Charge_power at 22 is: 0.0
+Discharge_power at 22 is: 0.0
+
+Capacity at 23 is: 320.098
+Produced: 0.0
+price: 6.442
+Charge_power at 23 is: 0.0
+Discharge_power at 23 is: 0.0
+
+Capacity at 24 is: 320.098
+Produced: 0.0
+price: 5.725
+Charge_power at 24 is: 0.0
+Discharge_power at 24 is: 0.0
+
+Capacity at 25 is: 320.098
+Produced: 0.0
+price: 6.962
+Charge_power at 25 is: 0.0
+Discharge_power at 25 is: 0.0
+
+Capacity at 26 is: 320.098
+Produced: 0.0
+price: 6.518
+Charge_power at 26 is: 0.0
+Discharge_power at 26 is: 0.0
+
+Capacity at 27 is: 320.098
+Produced: 0.0
+price: 6.148
+Charge_power at 27 is: 0.0
+Discharge_power at 27 is: 0.0
+
+Capacity at 28 is: 320.098
+Produced: 0.0
+price: 5.813
+Charge_power at 28 is: 0.0
+Discharge_power at 28 is: 0.0
+
+Capacity at 29 is: 320.098
+Produced: 0.299
+price: 5.835
+Charge_power at 29 is: 0.299
+Discharge_power at 29 is: 0.0
+
+Capacity at 30 is: 320.397
+Produced: 3.069
+price: 6.563
+Charge_power at 30 is: 3.069
+Discharge_power at 30 is: 0.0
+
+Capacity at 31 is: 323.466
+Produced: 7.665
+price: 10.022
+Charge_power at 31 is: 7.665
+Discharge_power at 31 is: 0.0
+
+Capacity at 32 is: 331.131
+Produced: 15.6
+price: 12.334
+Charge_power at 32 is: 15.6
+Discharge_power at 32 is: 0.0
+
+Capacity at 33 is: 346.731
+Produced: 31.971
+price: 13.097
+Charge_power at 33 is: 31.971
+Discharge_power at 33 is: 121.441
+
+Capacity at 34 is: 257.261
+Produced: 42.095
+price: 11.942
+Charge_power at 34 is: 42.095
+Discharge_power at 34 is: 0.0
+
+Capacity at 35 is: 299.356
+Produced: 39.645
+price: 11.2
+Charge_power at 35 is: 39.645
+Discharge_power at 35 is: 0.0
+
+Capacity at 36 is: 339.001
+Produced: 38.542
+price: 10.582
+Charge_power at 36 is: 38.542
+Discharge_power at 36 is: 0.0
+
+Capacity at 37 is: 377.543
+Produced: 36.129
+price: 9.613
+Charge_power at 37 is: 36.129
+Discharge_power at 37 is: 0.0
+
+Capacity at 38 is: 413.672
+Produced: 30.237
+price: 9.199
+Charge_power at 38 is: 30.237
+Discharge_power at 38 is: 0.0
+
+Capacity at 39 is: 443.909
+Produced: 13.519
+price: 8.618
+Charge_power at 39 is: 13.519
+Discharge_power at 39 is: 0.0
+
+Capacity at 40 is: 457.428
+Produced: 8.542
+price: 8.036
+Charge_power at 40 is: 8.542
+Discharge_power at 40 is: 0.0
+
+Capacity at 41 is: 465.97
+Produced: 2.726
+price: 8.483
+Charge_power at 41 is: 2.726
+Discharge_power at 41 is: 0.0
+
+Capacity at 42 is: 468.696
+Produced: 1.688
+price: 9.217
+Charge_power at 42 is: 1.688
+Discharge_power at 42 is: 0.0
+
+Capacity at 43 is: 470.384
+Produced: 2.557
+price: 10.671
+Charge_power at 43 is: 2.557
+Discharge_power at 43 is: 0.0
+
+Capacity at 44 is: 472.941
+Produced: 0.93
+price: 12.688
+Charge_power at 44 is: 0.93
+Discharge_power at 44 is: 0.0
+
+Capacity at 45 is: 473.871
+Produced: 0.013
+price: 13.943
+Charge_power at 45 is: 0.013
+Discharge_power at 45 is: 200.0
+
+Capacity at 46 is: 273.884
+Produced: 0.0
+price: 11.838
+Charge_power at 46 is: 0.0
+Discharge_power at 46 is: 0.0
+
+Capacity at 47 is: 273.884
+Produced: 0.0
+price: 9.2
+Charge_power at 47 is: 0.0
+Discharge_power at 47 is: 0.0
+
+Capacity at 48 is: 273.884
+Produced: 0.0
+price: 8.06
+Charge_power at 48 is: 0.0
+Discharge_power at 48 is: 0.0
+
+Capacity at 49 is: 273.884
+Produced: 0.0
+price: 1.061
+Charge_power at 49 is: 0.0
+Discharge_power at 49 is: 0.0
+
+Capacity at 50 is: 273.884
+Produced: 0.0
+price: 0.748
+Charge_power at 50 is: 0.0
+Discharge_power at 50 is: 0.0
+
+Capacity at 51 is: 273.884
+Produced: 0.0
+price: 0.999
+Charge_power at 51 is: 0.0
+Discharge_power at 51 is: 0.0
+
+Capacity at 52 is: 273.884
+Produced: 0.0
+price: 1.735
+Charge_power at 52 is: 0.0
+Discharge_power at 52 is: 0.0
+
+Capacity at 53 is: 273.884
+Produced: 0.656
+price: 2.993
+Charge_power at 53 is: 0.656
+Discharge_power at 53 is: 0.0
+
+Capacity at 54 is: 274.54
+Produced: 2.895
+price: 9.109
+Charge_power at 54 is: 2.895
+Discharge_power at 54 is: 0.0
+
+Capacity at 55 is: 277.435
+Produced: 8.02
+price: 9.11
+Charge_power at 55 is: 8.02
+Discharge_power at 55 is: 0.0
+
+Capacity at 56 is: 285.455
+Produced: 20.579
+price: 13.205
+Charge_power at 56 is: 20.579
+Discharge_power at 56 is: 200.0
+
+Capacity at 57 is: 106.034
+Produced: 33.659
+price: 12.51
+Charge_power at 57 is: 33.659
+Discharge_power at 57 is: 0.0
+
+Capacity at 58 is: 139.693
+Produced: 43.678
+price: 11.01
+Charge_power at 58 is: 43.678
+Discharge_power at 58 is: 0.0
+
+Capacity at 59 is: 183.371
+Produced: 44.405
+price: 9.11
+Charge_power at 59 is: 44.405
+Discharge_power at 59 is: 0.0
+
+Capacity at 60 is: 227.776
+Produced: 34.972
+price: 8.416
+Charge_power at 60 is: 34.972
+Discharge_power at 60 is: 0.0
+
+Capacity at 61 is: 262.748
+Produced: 42.795
+price: 7.76
+Charge_power at 61 is: 42.795
+Discharge_power at 61 is: 0.0
+
+Capacity at 62 is: 305.543
+Produced: 35.769
+price: 7.785
+Charge_power at 62 is: 35.769
+Discharge_power at 62 is: 0.0
+
+Capacity at 63 is: 341.312
+Produced: 6.089
+price: 7.248
+Charge_power at 63 is: 6.089
+Discharge_power at 63 is: 0.0
+
+Capacity at 64 is: 347.401
+Produced: 27.388
+price: 7.207
+Charge_power at 64 is: 27.388
+Discharge_power at 64 is: 0.0
+
+Capacity at 65 is: 374.789
+Produced: 12.108
+price: 8.228
+Charge_power at 65 is: 12.108
+Discharge_power at 65 is: 0.0
+
+Capacity at 66 is: 386.897
+Produced: 9.462
+price: 9.717
+Charge_power at 66 is: 9.462
+Discharge_power at 66 is: 0.0
+
+Capacity at 67 is: 396.359
+Produced: 2.69
+price: 12.112
+Charge_power at 67 is: 2.69
+Discharge_power at 67 is: 0.0
+
+Capacity at 68 is: 399.049
+Produced: 0.935
+price: 13.672
+Charge_power at 68 is: 0.935
+Discharge_power at 68 is: 200.0
+
+Capacity at 69 is: 199.984
+Produced: 0.016
+price: 16.746
+Charge_power at 69 is: 0.016
+Discharge_power at 69 is: 200.0
+
+Capacity at 70 is: 0.0
+Produced: 0.0
+price: 9.11
+Charge_power at 70 is: 0.0
+Discharge_power at 70 is: 0.0
+
+Capacity at 71 is: 0.0
+Produced: 0.0
+price: 9.11
+Charge_power at 71 is: 0.0
+Discharge_power at 71 is: 0.0
+
+Capacity at 72 is: 0.0
+Produced: 0.0
+price: 8.821
+Charge_power at 72 is: 0.0
+Discharge_power at 72 is: 0.0
+
+Capacity at 73 is: 0.0
+Produced: 0.0
+price: 8.839
+Charge_power at 73 is: 0.0
+Discharge_power at 73 is: 0.0
+
+Capacity at 74 is: 0.0
+Produced: 0.0
+price: 8.339
+Charge_power at 74 is: 0.0
+Discharge_power at 74 is: 0.0
+
+Capacity at 75 is: 0.0
+Produced: 0.0
+price: 9.19
+Charge_power at 75 is: 0.0
+Discharge_power at 75 is: 0.0
+
+Capacity at 76 is: 0.0
+Produced: 0.0
+price: 9.259
+Charge_power at 76 is: 0.0
+Discharge_power at 76 is: 0.0
+
+Capacity at 77 is: 0.0
+Produced: 0.36
+price: 9.259
+Charge_power at 77 is: 0.36
+Discharge_power at 77 is: 0.0
+
+Capacity at 78 is: 0.36
+Produced: 1.148
+price: 9.26
+Charge_power at 78 is: 1.148
+Discharge_power at 78 is: 0.0
+
+Capacity at 79 is: 1.508
+Produced: 5.01
+price: 12.2
+Charge_power at 79 is: 5.01
+Discharge_power at 79 is: 0.0
+
+Capacity at 80 is: 6.518
+Produced: 13.566
+price: 12.485
+Charge_power at 80 is: 13.566
+Discharge_power at 80 is: 20.084
+
+Capacity at 81 is: 0.0
+Produced: 33.061
+price: 11.73
+Charge_power at 81 is: 33.061
+Discharge_power at 81 is: 33.061
+
+Capacity at 82 is: 0.0
+Produced: 46.737
+price: 10.442
+Charge_power at 82 is: 46.737
+Discharge_power at 82 is: 0.0
+
+Capacity at 83 is: 46.737
+Produced: 41.655
+price: 9.0
+Charge_power at 83 is: 41.655
+Discharge_power at 83 is: 0.0
+
+Capacity at 84 is: 88.392
+Produced: 38.861
+price: 7.96
+Charge_power at 84 is: 38.861
+Discharge_power at 84 is: 0.0
+
+Capacity at 85 is: 127.253
+Produced: 33.076
+price: 7.179
+Charge_power at 85 is: 33.076
+Discharge_power at 85 is: 0.0
+
+Capacity at 86 is: 160.329
+Produced: 28.539
+price: 6.214
+Charge_power at 86 is: 28.539
+Discharge_power at 86 is: 0.0
+
+Capacity at 87 is: 188.868
+Produced: 33.316
+price: 5.857
+Charge_power at 87 is: 33.316
+Discharge_power at 87 is: 0.0
+
+Capacity at 88 is: 222.184
+Produced: 24.437
+price: 6.689
+Charge_power at 88 is: 24.437
+Discharge_power at 88 is: 0.0
+
+Capacity at 89 is: 246.621
+Produced: 12.135
+price: 7.902
+Charge_power at 89 is: 12.135
+Discharge_power at 89 is: 0.0
+
+Capacity at 90 is: 258.756
+Produced: 15.629
+price: 9.899
+Charge_power at 90 is: 15.629
+Discharge_power at 90 is: 0.0
+
+Capacity at 91 is: 274.385
+Produced: 5.532
+price: 11.169
+Charge_power at 91 is: 5.532
+Discharge_power at 91 is: 0.0
+
+Capacity at 92 is: 279.917
+Produced: 1.244
+price: 11.817
+Charge_power at 92 is: 1.244
+Discharge_power at 92 is: 200.0
+
+Capacity at 93 is: 81.161
+Produced: 0.089
+price: 11.699
+Charge_power at 93 is: 0.089
+Discharge_power at 93 is: 81.25
+
+Capacity at 94 is: 0.0
+Produced: 0.0
+price: 11.07
+Charge_power at 94 is: 0.0
+Discharge_power at 94 is: 0.0
+
+Capacity at 95 is: 0.0
+Produced: 0.0
+price: 10.189
+Charge_power at 95 is: 0.0
+Discharge_power at 95 is: 0.0
+
+Capacity at 96 is: 0.0
+Produced: 0.0
+price: 8.956
+Charge_power at 96 is: 0.0
+Discharge_power at 96 is: 0.0
+
+Capacity at 97 is: 0.0
+Produced: 0.0
+price: 8.189
+Charge_power at 97 is: 0.0
+Discharge_power at 97 is: 0.0
+
+Capacity at 98 is: 0.0
+Produced: 0.0
+price: 7.705
+Charge_power at 98 is: 0.0
+Discharge_power at 98 is: 0.0
+
+Capacity at 99 is: 0.0
+Produced: 0.0
+price: 7.605
+Charge_power at 99 is: 0.0
+Discharge_power at 99 is: 0.0
+
+Capacity at 100 is: 0.0
+Produced: 0.0
+price: 7.697
+Charge_power at 100 is: 0.0
+Discharge_power at 100 is: 0.0
+
+Capacity at 101 is: 0.0
+Produced: 0.558
+price: 7.632
+Charge_power at 101 is: 0.558
+Discharge_power at 101 is: 0.0
+
+Capacity at 102 is: 0.558
+Produced: 3.062
+price: 8.542
+Charge_power at 102 is: 3.062
+Discharge_power at 102 is: 0.0
+
+Capacity at 103 is: 3.62
+Produced: 6.924
+price: 9.402
+Charge_power at 103 is: 6.924
+Discharge_power at 103 is: 0.0
+
+Capacity at 104 is: 10.544
+Produced: 12.422
+price: 10.194
+Charge_power at 104 is: 12.422
+Discharge_power at 104 is: 0.0
+
+Capacity at 105 is: 22.966
+Produced: 19.654
+price: 9.601
+Charge_power at 105 is: 19.654
+Discharge_power at 105 is: 0.0
+
+Capacity at 106 is: 42.62
+Produced: 12.056
+price: 9.065
+Charge_power at 106 is: 12.056
+Discharge_power at 106 is: 0.0
+
+Capacity at 107 is: 54.676
+Produced: 21.58
+price: 8.795
+Charge_power at 107 is: 21.58
+Discharge_power at 107 is: 0.0
+
+Capacity at 108 is: 76.256
+Produced: 21.345
+price: 8.206
+Charge_power at 108 is: 21.345
+Discharge_power at 108 is: 0.0
+
+Capacity at 109 is: 97.601
+Produced: 19.235
+price: 7.758
+Charge_power at 109 is: 19.235
+Discharge_power at 109 is: 0.0
+
+Capacity at 110 is: 116.836
+Produced: 15.522
+price: 7.674
+Charge_power at 110 is: 15.522
+Discharge_power at 110 is: 0.0
+
+Capacity at 111 is: 132.358
+Produced: 20.212
+price: 7.701
+Charge_power at 111 is: 20.212
+Discharge_power at 111 is: 0.0
+
+Capacity at 112 is: 152.57
+Produced: 16.379
+price: 7.913
+Charge_power at 112 is: 16.379
+Discharge_power at 112 is: 0.0
+
+Capacity at 113 is: 168.949
+Produced: 11.248
+price: 8.44
+Charge_power at 113 is: 11.248
+Discharge_power at 113 is: 0.0
+
+Capacity at 114 is: 180.197
+Produced: 4.278
+price: 9.059
+Charge_power at 114 is: 4.278
+Discharge_power at 114 is: 0.0
+
+Capacity at 115 is: 184.475
+Produced: 2.643
+price: 9.06
+Charge_power at 115 is: 2.643
+Discharge_power at 115 is: 0.0
+
+Capacity at 116 is: 187.118
+Produced: 1.002
+price: 9.06
+Charge_power at 116 is: 1.002
+Discharge_power at 116 is: 0.0
+
+Capacity at 117 is: 188.12
+Produced: 0.066
+price: 11.497
+Charge_power at 117 is: 0.066
+Discharge_power at 117 is: 188.186
+
+Capacity at 118 is: 0.0
+Produced: 0.0
+price: 9.06
+Charge_power at 118 is: 0.0
+Discharge_power at 118 is: 0.0
+
+Capacity at 119 is: 0.0
+Produced: 0.0
+price: 7.812
+Charge_power at 119 is: 0.0
+Discharge_power at 119 is: 0.0
+
+Capacity at 120 is: 0.0
+Produced: 0.0
+price: 7.265
+Charge_power at 120 is: 0.0
+Discharge_power at 120 is: 0.0
+
+Capacity at 121 is: 0.0
+Produced: 0.0
+price: 6.799
+Charge_power at 121 is: 0.0
+Discharge_power at 121 is: 0.0
+
+Capacity at 122 is: 0.0
+Produced: 0.0
+price: 6.389
+Charge_power at 122 is: 0.0
+Discharge_power at 122 is: 0.0
+
+Capacity at 123 is: 0.0
+Produced: 0.0
+price: 6.291
+Charge_power at 123 is: 0.0
+Discharge_power at 123 is: 0.0
+
+Capacity at 124 is: 0.0
+Produced: 0.005
+price: 6.484
+Charge_power at 124 is: 0.005
+Discharge_power at 124 is: 0.0
+
+Capacity at 125 is: 0.005
+Produced: 0.675
+price: 6.561
+Charge_power at 125 is: 0.675
+Discharge_power at 125 is: 0.0
+
+Capacity at 126 is: 0.68
+Produced: 2.958
+price: 6.935
+Charge_power at 126 is: 2.958
+Discharge_power at 126 is: 0.0
+
+Capacity at 127 is: 3.638
+Produced: 9.417
+price: 9.039
+Charge_power at 127 is: 9.417
+Discharge_power at 127 is: 0.0
+
+Capacity at 128 is: 13.055
+Produced: 22.249
+price: 7.719
+Charge_power at 128 is: 22.249
+Discharge_power at 128 is: 0.0
+
+Capacity at 129 is: 35.304
+Produced: 36.043
+price: 8.46
+Charge_power at 129 is: 36.043
+Discharge_power at 129 is: 0.0
+
+Capacity at 130 is: 71.347
+Produced: 34.053
+price: 7.934
+Charge_power at 130 is: 34.053
+Discharge_power at 130 is: 0.0
+
+Capacity at 131 is: 105.4
+Produced: 15.061
+price: 7.779
+Charge_power at 131 is: 15.061
+Discharge_power at 131 is: 0.0
+
+Capacity at 132 is: 120.461
+Produced: 27.574
+price: 7.263
+Charge_power at 132 is: 27.574
+Discharge_power at 132 is: 0.0
+
+Capacity at 133 is: 148.035
+Produced: 18.445
+price: 7.031
+Charge_power at 133 is: 18.445
+Discharge_power at 133 is: 0.0
+
+Capacity at 134 is: 166.48
+Produced: 25.358
+price: 5.576
+Charge_power at 134 is: 25.358
+Discharge_power at 134 is: 0.0
+
+Capacity at 135 is: 191.838
+Produced: 34.176
+price: 5.0
+Charge_power at 135 is: 34.176
+Discharge_power at 135 is: 0.0
+
+Capacity at 136 is: 226.014
+Produced: 35.029
+price: 6.316
+Charge_power at 136 is: 35.029
+Discharge_power at 136 is: 0.0
+
+Capacity at 137 is: 261.043
+Produced: 30.583
+price: 7.285
+Charge_power at 137 is: 30.583
+Discharge_power at 137 is: 0.0
+
+Capacity at 138 is: 291.626
+Produced: 14.76
+price: 7.796
+Charge_power at 138 is: 14.76
+Discharge_power at 138 is: 0.0
+
+Capacity at 139 is: 306.386
+Produced: 4.77
+price: 8.159
+Charge_power at 139 is: 4.77
+Discharge_power at 139 is: 0.0
+
+Capacity at 140 is: 311.156
+Produced: 1.572
+price: 9.039
+Charge_power at 140 is: 1.572
+Discharge_power at 140 is: 0.0
+
+Capacity at 141 is: 312.728
+Produced: 0.089
+price: 9.039
+Charge_power at 141 is: 0.089
+Discharge_power at 141 is: 0.0
+
+Capacity at 142 is: 312.817
+Produced: 0.0
+price: 7.847
+Charge_power at 142 is: 0.0
+Discharge_power at 142 is: 0.0
+
+Capacity at 143 is: 312.817
+Produced: 0.0
+price: 7.838
+Charge_power at 143 is: 0.0
+Discharge_power at 143 is: 0.0
+
+Capacity at 144 is: 312.817
+Produced: 0.0
+price: 7.315
+Charge_power at 144 is: 0.0
+Discharge_power at 144 is: 0.0
+
+Capacity at 145 is: 312.817
+Produced: 0.0
+price: 6.135
+Charge_power at 145 is: 0.0
+Discharge_power at 145 is: 0.0
+
+Capacity at 146 is: 312.817
+Produced: 0.0
+price: 6.178
+Charge_power at 146 is: 0.0
+Discharge_power at 146 is: 0.0
+
+Capacity at 147 is: 312.817
+Produced: 0.0
+price: 6.167
+Charge_power at 147 is: 0.0
+Discharge_power at 147 is: 0.0
+
+Capacity at 148 is: 312.817
+Produced: 0.008
+price: 6.205
+Charge_power at 148 is: 0.008
+Discharge_power at 148 is: 0.0
+
+Capacity at 149 is: 312.825
+Produced: 0.921
+price: 6.368
+Charge_power at 149 is: 0.921
+Discharge_power at 149 is: 0.0
+
+Capacity at 150 is: 313.746
+Produced: 3.426
+price: 6.452
+Charge_power at 150 is: 3.426
+Discharge_power at 150 is: 0.0
+
+Capacity at 151 is: 317.172
+Produced: 9.074
+price: 6.601
+Charge_power at 151 is: 9.074
+Discharge_power at 151 is: 0.0
+
+Capacity at 152 is: 326.246
+Produced: 22.133
+price: 7.841
+Charge_power at 152 is: 22.133
+Discharge_power at 152 is: 0.0
+
+Capacity at 153 is: 348.379
+Produced: 35.531
+price: 7.587
+Charge_power at 153 is: 35.531
+Discharge_power at 153 is: 0.0
+
+Capacity at 154 is: 383.91
+Produced: 46.145
+price: 6.76
+Charge_power at 154 is: 46.145
+Discharge_power at 154 is: 0.0
+
+Capacity at 155 is: 430.055
+Produced: 49.804
+price: 3.738
+Charge_power at 155 is: 49.804
+Discharge_power at 155 is: 0.0
+
+Capacity at 156 is: 479.859
+Produced: 48.487
+price: 3.046
+Charge_power at 156 is: 48.487
+Discharge_power at 156 is: 0.0
+
+Capacity at 157 is: 528.346
+Produced: 22.964
+price: 3.928
+Charge_power at 157 is: 22.964
+Discharge_power at 157 is: 0.0
+
+Capacity at 158 is: 551.31
+Produced: 36.68
+price: 3.506
+Charge_power at 158 is: 36.68
+Discharge_power at 158 is: 0.0
+
+Capacity at 159 is: 587.99
+Produced: 47.926
+price: 3.066
+Charge_power at 159 is: 47.926
+Discharge_power at 159 is: 0.0
+
+Capacity at 160 is: 635.916
+Produced: 41.869
+price: 3.007
+Charge_power at 160 is: 41.869
+Discharge_power at 160 is: 0.0
+
+Capacity at 161 is: 677.785
+Produced: 28.877
+price: 5.662
+Charge_power at 161 is: 28.877
+Discharge_power at 161 is: 0.0
+
+Capacity at 162 is: 706.662
+Produced: 15.521
+price: 6.889
+Charge_power at 162 is: 15.521
+Discharge_power at 162 is: 0.0
+
+Capacity at 163 is: 722.183
+Produced: 4.905
+price: 7.216
+Charge_power at 163 is: 4.905
+Discharge_power at 163 is: 0.0
+
+Capacity at 164 is: 727.088
+Produced: 1.536
+price: 9.05
+Charge_power at 164 is: 1.536
+Discharge_power at 164 is: 0.0
+
+Capacity at 165 is: 728.624
+Produced: 0.067
+price: 11.269
+Charge_power at 165 is: 0.067
+Discharge_power at 165 is: 0.0
+
+Capacity at 166 is: 728.691
+Produced: 0.0
+price: 6.601
+Charge_power at 166 is: 0.0
+Discharge_power at 166 is: 0.0
+
+Capacity at 167 is: 728.691
+Produced: 0.0
+price: 6.675
+Charge_power at 167 is: 0.0
+Discharge_power at 167 is: 0.0
+
+Capacity at 168 is: 728.691
+Produced: 0.0
+price: 6.165
+Charge_power at 168 is: 0.0
+Discharge_power at 168 is: 0.0
+
+Capacity at 169 is: 728.691
+Produced: 0.0
+price: 5.626
+Charge_power at 169 is: 0.0
+Discharge_power at 169 is: 0.0
+
+Capacity at 170 is: 728.691
+Produced: 0.0
+price: 5.511
+Charge_power at 170 is: 0.0
+Discharge_power at 170 is: 0.0
+
+Capacity at 171 is: 728.691
+Produced: 0.0
+price: 5.668
+Charge_power at 171 is: 0.0
+Discharge_power at 171 is: 0.0
+
+Capacity at 172 is: 728.691
+Produced: 0.005
+price: 5.945
+Charge_power at 172 is: 0.005
+Discharge_power at 172 is: 0.0
+
+Capacity at 173 is: 728.696
+Produced: 1.003
+price: 6.289
+Charge_power at 173 is: 1.003
+Discharge_power at 173 is: 0.0
+
+Capacity at 174 is: 729.699
+Produced: 3.86
+price: 9.003
+Charge_power at 174 is: 3.86
+Discharge_power at 174 is: 0.0
+
+Capacity at 175 is: 733.559
+Produced: 8.02
+price: 10.162
+Charge_power at 175 is: 8.02
+Discharge_power at 175 is: 0.0
+
+Capacity at 176 is: 741.579
+Produced: 13.17
+price: 11.352
+Charge_power at 176 is: 13.17
+Discharge_power at 176 is: 173.559
+
+Capacity at 177 is: 581.19
+Produced: 31.78
+price: 10.753
+Charge_power at 177 is: 31.78
+Discharge_power at 177 is: 0.0
+
+Capacity at 178 is: 612.97
+Produced: 46.697
+price: 9.691
+Charge_power at 178 is: 46.697
+Discharge_power at 178 is: 0.0
+
+Capacity at 179 is: 659.667
+Produced: 49.769
+price: 8.963
+Charge_power at 179 is: 49.769
+Discharge_power at 179 is: 0.0
+
+Capacity at 180 is: 709.436
+Produced: 49.781
+price: 7.968
+Charge_power at 180 is: 49.781
+Discharge_power at 180 is: 0.0
+
+Capacity at 181 is: 759.217
+Produced: 49.792
+price: 7.506
+Charge_power at 181 is: 49.792
+Discharge_power at 181 is: 0.0
+
+Capacity at 182 is: 809.009
+Produced: 49.796
+price: 6.948
+Charge_power at 182 is: 49.796
+Discharge_power at 182 is: 0.0
+
+Capacity at 183 is: 858.805
+Produced: 49.129
+price: 6.29
+Charge_power at 183 is: 49.129
+Discharge_power at 183 is: 0.0
+
+Capacity at 184 is: 907.934
+Produced: 41.029
+price: 6.021
+Charge_power at 184 is: 41.029
+Discharge_power at 184 is: 0.0
+
+Capacity at 185 is: 948.963
+Produced: 29.092
+price: 8.401
+Charge_power at 185 is: 29.092
+Discharge_power at 185 is: 0.0
+
+Capacity at 186 is: 978.055
+Produced: 15.187
+price: 9.705
+Charge_power at 186 is: 15.187
+Discharge_power at 186 is: 0.0
+
+Capacity at 187 is: 993.242
+Produced: 4.978
+price: 9.05
+Charge_power at 187 is: 4.978
+Discharge_power at 187 is: 0.0
+
+Capacity at 188 is: 998.22
+Produced: 1.78
+price: 13.403
+Charge_power at 188 is: 1.78
+Discharge_power at 188 is: 200.0
+
+Capacity at 189 is: 800.0
+Produced: 0.119
+price: 11.396
+Charge_power at 189 is: 0.119
+Discharge_power at 189 is: 108.162
+
+Capacity at 190 is: 691.957
+Produced: 0.0
+price: 12.039
+Charge_power at 190 is: 0.0
+Discharge_power at 190 is: 200.0
+
+Capacity at 191 is: 491.957
+Produced: 0.0
+price: 8.007
+Charge_power at 191 is: 0.0
+Discharge_power at 191 is: 0.0
+
+Capacity at 192 is: 491.957
+Produced: 0.0
+price: 4.009
+Charge_power at 192 is: 0.0
+Discharge_power at 192 is: 0.0
+
+Capacity at 193 is: 491.957
+Produced: 0.0
+price: 9.05
+Charge_power at 193 is: 0.0
+Discharge_power at 193 is: 0.0
+
+Capacity at 194 is: 491.957
+Produced: 0.0
+price: 4.63
+Charge_power at 194 is: 0.0
+Discharge_power at 194 is: 0.0
+
+Capacity at 195 is: 491.957
+Produced: 0.0
+price: 1.346
+Charge_power at 195 is: 0.0
+Discharge_power at 195 is: 0.0
+
+Capacity at 196 is: 491.957
+Produced: 0.014
+price: 2.061
+Charge_power at 196 is: 0.014
+Discharge_power at 196 is: 0.0
+
+Capacity at 197 is: 491.971
+Produced: 1.027
+price: 8.525
+Charge_power at 197 is: 1.027
+Discharge_power at 197 is: 0.0
+
+Capacity at 198 is: 492.998
+Produced: 3.535
+price: 9.05
+Charge_power at 198 is: 3.535
+Discharge_power at 198 is: 0.0
+
+Capacity at 199 is: 496.533
+Produced: 8.889
+price: 11.158
+Charge_power at 199 is: 8.889
+Discharge_power at 199 is: 0.0
+
+Capacity at 200 is: 505.422
+Produced: 21.152
+price: 9.05
+Charge_power at 200 is: 21.152
+Discharge_power at 200 is: 0.0
+
+Capacity at 201 is: 526.574
+Produced: 34.642
+price: 9.049
+Charge_power at 201 is: 34.642
+Discharge_power at 201 is: 0.0
+
+Capacity at 202 is: 561.216
+Produced: 44.972
+price: 4.711
+Charge_power at 202 is: 44.972
+Discharge_power at 202 is: 0.0
+
+Capacity at 203 is: 606.188
+Produced: 49.695
+price: 3.341
+Charge_power at 203 is: 49.695
+Discharge_power at 203 is: 0.0
+
+Capacity at 204 is: 655.883
+Produced: 49.681
+price: 2.889
+Charge_power at 204 is: 49.681
+Discharge_power at 204 is: 0.0
+
+Capacity at 205 is: 705.564
+Produced: 48.995
+price: 2.506
+Charge_power at 205 is: 48.995
+Discharge_power at 205 is: 0.0
+
+Capacity at 206 is: 754.559
+Produced: 44.181
+price: 1.517
+Charge_power at 206 is: 44.181
+Discharge_power at 206 is: 0.0
+
+Capacity at 207 is: 798.74
+Produced: 43.523
+price: 0.999
+Charge_power at 207 is: 43.523
+Discharge_power at 207 is: 0.0
+
+Capacity at 208 is: 842.263
+Produced: 34.634
+price: 4.94
+Charge_power at 208 is: 34.634
+Discharge_power at 208 is: 0.0
+
+Capacity at 209 is: 876.897
+Produced: 27.833
+price: 8.444
+Charge_power at 209 is: 27.833
+Discharge_power at 209 is: 0.0
+
+Capacity at 210 is: 904.73
+Produced: 14.121
+price: 10.006
+Charge_power at 210 is: 14.121
+Discharge_power at 210 is: 0.0
+
+Capacity at 211 is: 918.851
+Produced: 5.88
+price: 11.57
+Charge_power at 211 is: 5.88
+Discharge_power at 211 is: 200.0
+
+Capacity at 212 is: 724.731
+Produced: 1.928
+price: 9.05
+Charge_power at 212 is: 1.928
+Discharge_power at 212 is: 0.0
+
+Capacity at 213 is: 726.659
+Produced: 0.168
+price: 9.05
+Charge_power at 213 is: 0.168
+Discharge_power at 213 is: 0.0
+
+Capacity at 214 is: 726.827
+Produced: 0.0
+price: 9.049
+Charge_power at 214 is: 0.0
+Discharge_power at 214 is: 0.0
+
+Capacity at 215 is: 726.827
+Produced: 0.0
+price: 9.049
+Charge_power at 215 is: 0.0
+Discharge_power at 215 is: 0.0
+
+Capacity at 216 is: 726.827
+Produced: 0.0
+price: 4.004
+Charge_power at 216 is: 0.0
+Discharge_power at 216 is: 0.0
+
+Capacity at 217 is: 726.827
+Produced: 0.0
+price: 8.34
+Charge_power at 217 is: 0.0
+Discharge_power at 217 is: 0.0
+
+Capacity at 218 is: 726.827
+Produced: 0.0
+price: 0.521
+Charge_power at 218 is: 0.0
+Discharge_power at 218 is: 0.0
+
+Capacity at 219 is: 726.827
+Produced: 0.0
+price: 0.539
+Charge_power at 219 is: 0.0
+Discharge_power at 219 is: 0.0
+
+Capacity at 220 is: 726.827
+Produced: 0.011
+price: 3.869
+Charge_power at 220 is: 0.011
+Discharge_power at 220 is: 0.0
+
+Capacity at 221 is: 726.838
+Produced: 0.915
+price: 8.34
+Charge_power at 221 is: 0.915
+Discharge_power at 221 is: 0.0
+
+Capacity at 222 is: 727.753
+Produced: 4.645
+price: 8.975
+Charge_power at 222 is: 4.645
+Discharge_power at 222 is: 0.0
+
+Capacity at 223 is: 732.398
+Produced: 9.579
+price: 10.673
+Charge_power at 223 is: 9.579
+Discharge_power at 223 is: 0.0
+
+Capacity at 224 is: 741.977
+Produced: 20.433
+price: 11.804
+Charge_power at 224 is: 20.433
+Discharge_power at 224 is: 200.0
+
+Capacity at 225 is: 562.41
+Produced: 34.018
+price: 8.339
+Charge_power at 225 is: 34.018
+Discharge_power at 225 is: 0.0
+
+Capacity at 226 is: 596.428
+Produced: 42.846
+price: 3.025
+Charge_power at 226 is: 42.846
+Discharge_power at 226 is: 0.0
+
+Capacity at 227 is: 639.274
+Produced: 49.546
+price: 2.205
+Charge_power at 227 is: 49.546
+Discharge_power at 227 is: 0.0
+
+Capacity at 228 is: 688.82
+Produced: 49.184
+price: 0.399
+Charge_power at 228 is: 49.184
+Discharge_power at 228 is: 0.0
+
+Capacity at 229 is: 738.004
+Produced: 43.871
+price: 0.31
+Charge_power at 229 is: 43.871
+Discharge_power at 229 is: 0.0
+
+Capacity at 230 is: 781.875
+Produced: 43.893
+price: 0.241
+Charge_power at 230 is: 43.893
+Discharge_power at 230 is: 0.0
+
+Capacity at 231 is: 825.768
+Produced: 44.418
+price: 0.156
+Charge_power at 231 is: 44.418
+Discharge_power at 231 is: 0.0
+
+Capacity at 232 is: 870.186
+Produced: 39.913
+price: 4.909
+Charge_power at 232 is: 39.913
+Discharge_power at 232 is: 0.0
+
+Capacity at 233 is: 910.099
+Produced: 27.583
+price: 8.34
+Charge_power at 233 is: 27.583
+Discharge_power at 233 is: 0.0
+
+Capacity at 234 is: 937.682
+Produced: 14.712
+price: 10.335
+Charge_power at 234 is: 14.712
+Discharge_power at 234 is: 0.0
+
+Capacity at 235 is: 952.394
+Produced: 5.676
+price: 10.946
+Charge_power at 235 is: 5.676
+Discharge_power at 235 is: 0.0
+
+Capacity at 236 is: 958.07
+Produced: 2.331
+price: 10.772
+Charge_power at 236 is: 2.331
+Discharge_power at 236 is: 0.0
+
+Capacity at 237 is: 960.401
+Produced: 0.1
+price: 10.761
+Charge_power at 237 is: 0.1
+Discharge_power at 237 is: 0.0
+
+Capacity at 238 is: 960.501
+Produced: 0.0
+price: 10.946
+Charge_power at 238 is: 0.0
+Discharge_power at 238 is: 0.0
+
+Capacity at 239 is: 960.501
+Produced: 0.0
+price: 8.34
+Charge_power at 239 is: 0.0
+Discharge_power at 239 is: 0.0
+
+Capacity at 240 is: 960.501
+Produced: 0.0
+price: 3.01
+Charge_power at 240 is: 0.0
+Discharge_power at 240 is: 0.0
+
+Capacity at 241 is: 960.501
+Produced: 0.0
+price: 0.407
+Charge_power at 241 is: 0.0
+Discharge_power at 241 is: 0.0
+
+Capacity at 242 is: 960.501
+Produced: 0.0
+price: 0.405
+Charge_power at 242 is: 0.0
+Discharge_power at 242 is: 0.0
+
+Capacity at 243 is: 960.501
+Produced: 0.0
+price: 0.405
+Charge_power at 243 is: 0.0
+Discharge_power at 243 is: 0.0
+
+Capacity at 244 is: 960.501
+Produced: 0.015
+price: 0.408
+Charge_power at 244 is: 0.015
+Discharge_power at 244 is: 0.0
+
+Capacity at 245 is: 960.516
+Produced: 1.181
+price: 8.419
+Charge_power at 245 is: 1.181
+Discharge_power at 245 is: 0.0
+
+Capacity at 246 is: 961.697
+Produced: 3.896
+price: 10.196
+Charge_power at 246 is: 3.896
+Discharge_power at 246 is: 0.0
+
+Capacity at 247 is: 965.593
+Produced: 9.005
+price: 11.961
+Charge_power at 247 is: 9.005
+Discharge_power at 247 is: 200.0
+
+Capacity at 248 is: 774.598
+Produced: 20.621
+price: 13.836
+Charge_power at 248 is: 20.621
+Discharge_power at 248 is: 200.0
+
+Capacity at 249 is: 595.219
+Produced: 32.806
+price: 8.419
+Charge_power at 249 is: 32.806
+Discharge_power at 249 is: 0.0
+
+Capacity at 250 is: 628.025
+Produced: 43.892
+price: 4.496
+Charge_power at 250 is: 43.892
+Discharge_power at 250 is: 0.0
+
+Capacity at 251 is: 671.917
+Produced: 49.505
+price: 3.796
+Charge_power at 251 is: 49.505
+Discharge_power at 251 is: 0.0
+
+Capacity at 252 is: 721.422
+Produced: 49.679
+price: 2.918
+Charge_power at 252 is: 49.679
+Discharge_power at 252 is: 0.0
+
+Capacity at 253 is: 771.101
+Produced: 49.726
+price: 2.829
+Charge_power at 253 is: 49.726
+Discharge_power at 253 is: 0.0
+
+Capacity at 254 is: 820.827
+Produced: 49.284
+price: 2.812
+Charge_power at 254 is: 49.284
+Discharge_power at 254 is: 0.0
+
+Capacity at 255 is: 870.111
+Produced: 46.257
+price: 1.506
+Charge_power at 255 is: 46.257
+Discharge_power at 255 is: 0.0
+
+Capacity at 256 is: 916.368
+Produced: 37.318
+price: 2.158
+Charge_power at 256 is: 37.318
+Discharge_power at 256 is: 0.0
+
+Capacity at 257 is: 953.686
+Produced: 26.298
+price: 2.697
+Charge_power at 257 is: 26.298
+Discharge_power at 257 is: 0.0
+
+Capacity at 258 is: 979.984
+Produced: 13.905
+price: 8.588
+Charge_power at 258 is: 13.905
+Discharge_power at 258 is: 0.0
+
+Capacity at 259 is: 993.889
+Produced: 6.111
+price: 11.974
+Charge_power at 259 is: 6.111
+Discharge_power at 259 is: 144.728
+
+Capacity at 260 is: 855.272
+Produced: 2.408
+price: 15.469
+Charge_power at 260 is: 2.408
+Discharge_power at 260 is: 200.0
+
+Capacity at 261 is: 657.68
+Produced: 0.214
+price: 15.07
+Charge_power at 261 is: 0.214
+Discharge_power at 261 is: 200.0
+
+Capacity at 262 is: 457.894
+Produced: 0.0
+price: 12.212
+Charge_power at 262 is: 0.0
+Discharge_power at 262 is: 200.0
+
+Capacity at 263 is: 257.894
+Produced: 0.0
+price: 11.399
+Charge_power at 263 is: 0.0
+Discharge_power at 263 is: 0.0
+
+Capacity at 264 is: 257.894
+Produced: 0.0
+price: 8.419
+Charge_power at 264 is: 0.0
+Discharge_power at 264 is: 0.0
+
+Capacity at 265 is: 257.894
+Produced: 0.0
+price: 8.573
+Charge_power at 265 is: 0.0
+Discharge_power at 265 is: 0.0
+
+Capacity at 266 is: 257.894
+Produced: 0.0
+price: 8.572
+Charge_power at 266 is: 0.0
+Discharge_power at 266 is: 0.0
+
+Capacity at 267 is: 257.894
+Produced: 0.0
+price: 8.574
+Charge_power at 267 is: 0.0
+Discharge_power at 267 is: 0.0
+
+Capacity at 268 is: 257.894
+Produced: 0.046
+price: 8.572
+Charge_power at 268 is: 0.046
+Discharge_power at 268 is: 0.0
+
+Capacity at 269 is: 257.94
+Produced: 1.269
+price: 8.576
+Charge_power at 269 is: 1.269
+Discharge_power at 269 is: 0.0
+
+Capacity at 270 is: 259.209
+Produced: 3.733
+price: 9.883
+Charge_power at 270 is: 3.733
+Discharge_power at 270 is: 0.0
+
+Capacity at 271 is: 262.942
+Produced: 9.117
+price: 8.575
+Charge_power at 271 is: 9.117
+Discharge_power at 271 is: 0.0
+
+Capacity at 272 is: 272.059
+Produced: 21.013
+price: 8.49
+Charge_power at 272 is: 21.013
+Discharge_power at 272 is: 0.0
+
+Capacity at 273 is: 293.072
+Produced: 33.334
+price: 9.65
+Charge_power at 273 is: 33.334
+Discharge_power at 273 is: 0.0
+
+Capacity at 274 is: 326.406
+Produced: 43.326
+price: 8.432
+Charge_power at 274 is: 43.326
+Discharge_power at 274 is: 0.0
+
+Capacity at 275 is: 369.732
+Produced: 49.289
+price: 8.248
+Charge_power at 275 is: 49.289
+Discharge_power at 275 is: 0.0
+
+Capacity at 276 is: 419.021
+Produced: 49.708
+price: 6.458
+Charge_power at 276 is: 49.708
+Discharge_power at 276 is: 0.0
+
+Capacity at 277 is: 468.729
+Produced: 49.724
+price: 5.287
+Charge_power at 277 is: 49.724
+Discharge_power at 277 is: 0.0
+
+Capacity at 278 is: 518.453
+Produced: 48.812
+price: 4.417
+Charge_power at 278 is: 48.812
+Discharge_power at 278 is: 0.0
+
+Capacity at 279 is: 567.265
+Produced: 47.094
+price: 3.758
+Charge_power at 279 is: 47.094
+Discharge_power at 279 is: 0.0
+
+Capacity at 280 is: 614.359
+Produced: 38.553
+price: 3.723
+Charge_power at 280 is: 38.553
+Discharge_power at 280 is: 0.0
+
+Capacity at 281 is: 652.912
+Produced: 25.773
+price: 3.807
+Charge_power at 281 is: 25.773
+Discharge_power at 281 is: 0.0
+
+Capacity at 282 is: 678.685
+Produced: 13.571
+price: 4.957
+Charge_power at 282 is: 13.571
+Discharge_power at 282 is: 0.0
+
+Capacity at 283 is: 692.256
+Produced: 6.965
+price: 11.97
+Charge_power at 283 is: 6.965
+Discharge_power at 283 is: 0.0
+
+Capacity at 284 is: 699.221
+Produced: 2.164
+price: 12.821
+Charge_power at 284 is: 2.164
+Discharge_power at 284 is: 200.0
+
+Capacity at 285 is: 501.385
+Produced: 0.231
+price: 12.995
+Charge_power at 285 is: 0.231
+Discharge_power at 285 is: 200.0
+
+Capacity at 286 is: 301.616
+Produced: 0.0
+price: 12.384
+Charge_power at 286 is: 0.0
+Discharge_power at 286 is: 200.0
+
+Capacity at 287 is: 101.616
+Produced: 0.0
+price: 8.579
+Charge_power at 287 is: 0.0
+Discharge_power at 287 is: 0.0
+
+Capacity at 288 is: 101.616
+Produced: 0.0
+price: 8.574
+Charge_power at 288 is: 0.0
+Discharge_power at 288 is: 0.0
+
+Capacity at 289 is: 101.616
+Produced: 0.0
+price: 8.53
+Charge_power at 289 is: 0.0
+Discharge_power at 289 is: 0.0
+
+Capacity at 290 is: 101.616
+Produced: 0.0
+price: 8.53
+Charge_power at 290 is: 0.0
+Discharge_power at 290 is: 0.0
+
+Capacity at 291 is: 101.616
+Produced: 0.0
+price: 8.53
+Charge_power at 291 is: 0.0
+Discharge_power at 291 is: 0.0
+
+Capacity at 292 is: 101.616
+Produced: 0.055
+price: 8.53
+Charge_power at 292 is: 0.055
+Discharge_power at 292 is: 0.0
+
+Capacity at 293 is: 101.671
+Produced: 1.284
+price: 8.53
+Charge_power at 293 is: 1.284
+Discharge_power at 293 is: 0.0
+
+Capacity at 294 is: 102.955
+Produced: 3.711
+price: 8.53
+Charge_power at 294 is: 3.711
+Discharge_power at 294 is: 0.0
+
+Capacity at 295 is: 106.666
+Produced: 9.167
+price: 8.529
+Charge_power at 295 is: 9.167
+Discharge_power at 295 is: 0.0
+
+Capacity at 296 is: 115.833
+Produced: 21.49
+price: 2.297
+Charge_power at 296 is: 21.49
+Discharge_power at 296 is: 0.0
+
+Capacity at 297 is: 137.323
+Produced: 34.213
+price: 2.429
+Charge_power at 297 is: 34.213
+Discharge_power at 297 is: 0.0
+
+Capacity at 298 is: 171.536
+Produced: 44.343
+price: 2.417
+Charge_power at 298 is: 44.343
+Discharge_power at 298 is: 0.0
+
+Capacity at 299 is: 215.879
+Produced: 49.701
+price: 2.255
+Charge_power at 299 is: 49.701
+Discharge_power at 299 is: 0.0
+
+Capacity at 300 is: 265.58
+Produced: 49.83
+price: 1.96
+Charge_power at 300 is: 49.83
+Discharge_power at 300 is: 0.0
+
+Capacity at 301 is: 315.41
+Produced: 49.842
+price: 1.543
+Charge_power at 301 is: 49.842
+Discharge_power at 301 is: 0.0
+
+Capacity at 302 is: 365.252
+Produced: 49.852
+price: 0.565
+Charge_power at 302 is: 49.852
+Discharge_power at 302 is: 0.0
+
+Capacity at 303 is: 415.104
+Produced: 47.625
+price: 0.506
+Charge_power at 303 is: 47.625
+Discharge_power at 303 is: 0.0
+
+Capacity at 304 is: 462.729
+Produced: 39.078
+price: 0.617
+Charge_power at 304 is: 39.078
+Discharge_power at 304 is: 0.0
+
+Capacity at 305 is: 501.807
+Produced: 27.944
+price: 1.904
+Charge_power at 305 is: 27.944
+Discharge_power at 305 is: 0.0
+
+Capacity at 306 is: 529.751
+Produced: 15.165
+price: 7.541
+Charge_power at 306 is: 15.165
+Discharge_power at 306 is: 0.0
+
+Capacity at 307 is: 544.916
+Produced: 5.337
+price: 8.468
+Charge_power at 307 is: 5.337
+Discharge_power at 307 is: 0.0
+
+Capacity at 308 is: 550.253
+Produced: 2.105
+price: 10.845
+Charge_power at 308 is: 2.105
+Discharge_power at 308 is: 0.0
+
+Capacity at 309 is: 552.358
+Produced: 0.259
+price: 11.646
+Charge_power at 309 is: 0.259
+Discharge_power at 309 is: 0.0
+
+Capacity at 310 is: 552.617
+Produced: 0.0
+price: 11.348
+Charge_power at 310 is: 0.0
+Discharge_power at 310 is: 0.0
+
+Capacity at 311 is: 552.617
+Produced: 0.0
+price: 10.956
+Charge_power at 311 is: 0.0
+Discharge_power at 311 is: 0.0
+
+Capacity at 312 is: 552.617
+Produced: 0.0
+price: 8.53
+Charge_power at 312 is: 0.0
+Discharge_power at 312 is: 0.0
+
+Capacity at 313 is: 552.617
+Produced: 0.0
+price: 8.529
+Charge_power at 313 is: 0.0
+Discharge_power at 313 is: 0.0
+
+Capacity at 314 is: 552.617
+Produced: 0.0
+price: 8.529
+Charge_power at 314 is: 0.0
+Discharge_power at 314 is: 0.0
+
+Capacity at 315 is: 552.617
+Produced: 0.0
+price: 8.529
+Charge_power at 315 is: 0.0
+Discharge_power at 315 is: 0.0
+
+Capacity at 316 is: 552.617
+Produced: 0.057
+price: 8.529
+Charge_power at 316 is: 0.057
+Discharge_power at 316 is: 0.0
+
+Capacity at 317 is: 552.674
+Produced: 1.386
+price: 8.529
+Charge_power at 317 is: 1.386
+Discharge_power at 317 is: 0.0
+
+Capacity at 318 is: 554.06
+Produced: 3.842
+price: 8.529
+Charge_power at 318 is: 3.842
+Discharge_power at 318 is: 0.0
+
+Capacity at 319 is: 557.902
+Produced: 9.416
+price: 0.753
+Charge_power at 319 is: 9.416
+Discharge_power at 319 is: 0.0
+
+Capacity at 320 is: 567.318
+Produced: 21.552
+price: 0.868
+Charge_power at 320 is: 21.552
+Discharge_power at 320 is: 0.0
+
+Capacity at 321 is: 588.87
+Produced: 34.025
+price: 1.377
+Charge_power at 321 is: 34.025
+Discharge_power at 321 is: 0.0
+
+Capacity at 322 is: 622.895
+Produced: 43.593
+price: 1.562
+Charge_power at 322 is: 43.593
+Discharge_power at 322 is: 0.0
+
+Capacity at 323 is: 666.488
+Produced: 49.385
+price: 1.212
+Charge_power at 323 is: 49.385
+Discharge_power at 323 is: 0.0
+
+Capacity at 324 is: 715.873
+Produced: 49.72
+price: 0.929
+Charge_power at 324 is: 49.72
+Discharge_power at 324 is: 0.0
+
+Capacity at 325 is: 765.593
+Produced: 49.738
+price: 0.577
+Charge_power at 325 is: 49.738
+Discharge_power at 325 is: 0.0
+
+Capacity at 326 is: 815.331
+Produced: 49.743
+price: 0.185
+Charge_power at 326 is: 49.743
+Discharge_power at 326 is: 0.0
+
+Capacity at 327 is: 865.074
+Produced: 48.117
+price: 0.016
+Charge_power at 327 is: 48.117
+Discharge_power at 327 is: 0.0
+
+Capacity at 328 is: 913.191
+Produced: 36.509
+price: 0.178
+Charge_power at 328 is: 36.509
+Discharge_power at 328 is: 0.0
+
+Capacity at 329 is: 949.7
+Produced: 27.28
+price: 0.519
+Charge_power at 329 is: 27.28
+Discharge_power at 329 is: 0.0
+
+Capacity at 330 is: 976.98
+Produced: 14.978
+price: 1.034
+Charge_power at 330 is: 14.978
+Discharge_power at 330 is: 0.0
+
+Capacity at 331 is: 991.958
+Produced: 5.543
+price: 8.529
+Charge_power at 331 is: 5.543
+Discharge_power at 331 is: 0.0
+
+Capacity at 332 is: 997.501
+Produced: 2.209
+price: 8.529
+Charge_power at 332 is: 2.209
+Discharge_power at 332 is: 0.0
+
+Capacity at 333 is: 999.71
+Produced: 0.29
+price: 12.613
+Charge_power at 333 is: 0.29
+Discharge_power at 333 is: 200.0
+
+Capacity at 334 is: 800.0
+Produced: 0.0
+price: 12.662
+Charge_power at 334 is: 0.0
+Discharge_power at 334 is: 200.0
+
+Capacity at 335 is: 600.0
+Produced: 0.0
+price: 11.842
+Charge_power at 335 is: 0.0
+Discharge_power at 335 is: 0.0
+
+Capacity at 336 is: 600.0
+Produced: 0.0
+price: 8.53
+Charge_power at 336 is: 0.0
+Discharge_power at 336 is: 0.0
+
+Capacity at 337 is: 600.0
+Produced: 0.0
+price: 8.559
+Charge_power at 337 is: 0.0
+Discharge_power at 337 is: 0.0
+
+Capacity at 338 is: 600.0
+Produced: 0.0
+price: 8.559
+Charge_power at 338 is: 0.0
+Discharge_power at 338 is: 0.0
+
+Capacity at 339 is: 600.0
+Produced: 0.0
+price: 8.559
+Charge_power at 339 is: 0.0
+Discharge_power at 339 is: 0.0
+
+Capacity at 340 is: 600.0
+Produced: 0.035
+price: 8.559
+Charge_power at 340 is: 0.035
+Discharge_power at 340 is: 0.0
+
+Capacity at 341 is: 600.035
+Produced: 0.755
+price: 8.559
+Charge_power at 341 is: 0.755
+Discharge_power at 341 is: 0.0
+
+Capacity at 342 is: 600.79
+Produced: 2.367
+price: 12.251
+Charge_power at 342 is: 2.367
+Discharge_power at 342 is: 19.9849999999997
+
+Capacity at 343 is: 583.172
+Produced: 9.511
+price: 8.56
+Charge_power at 343 is: 9.511
+Discharge_power at 343 is: 0.0
+
+Capacity at 344 is: 592.683
+Produced: 21.147
+price: 9.226
+Charge_power at 344 is: 21.147
+Discharge_power at 344 is: 0.0
+
+Capacity at 345 is: 613.83
+Produced: 28.962
+price: 9.413
+Charge_power at 345 is: 28.962
+Discharge_power at 345 is: 0.0
+
+Capacity at 346 is: 642.792
+Produced: 42.495
+price: 8.56
+Charge_power at 346 is: 42.495
+Discharge_power at 346 is: 0.0
+
+Capacity at 347 is: 685.287
+Produced: 48.895
+price: 2.274
+Charge_power at 347 is: 48.895
+Discharge_power at 347 is: 0.0
+
+Capacity at 348 is: 734.182
+Produced: 49.683
+price: 2.099
+Charge_power at 348 is: 49.683
+Discharge_power at 348 is: 0.0
+
+Capacity at 349 is: 783.865
+Produced: 48.218
+price: 1.494
+Charge_power at 349 is: 48.218
+Discharge_power at 349 is: 0.0
+
+Capacity at 350 is: 832.083
+Produced: 48.781
+price: 1.162
+Charge_power at 350 is: 48.781
+Discharge_power at 350 is: 0.0
+
+Capacity at 351 is: 880.864
+Produced: 43.525
+price: 0.895
+Charge_power at 351 is: 43.525
+Discharge_power at 351 is: 0.0
+
+Capacity at 352 is: 924.389
+Produced: 27.71
+price: 1.192
+Charge_power at 352 is: 27.71
+Discharge_power at 352 is: 0.0
+
+Capacity at 353 is: 952.099
+Produced: 25.807
+price: 1.426
+Charge_power at 353 is: 25.807
+Discharge_power at 353 is: 0.0
+
+Capacity at 354 is: 977.906
+Produced: 14.761
+price: 1.739
+Charge_power at 354 is: 14.761
+Discharge_power at 354 is: 0.0
+
+Capacity at 355 is: 992.667
+Produced: 5.134
+price: 8.56
+Charge_power at 355 is: 5.134
+Discharge_power at 355 is: 0.0
+
+Capacity at 356 is: 997.801
+Produced: 1.986
+price: 8.56
+Charge_power at 356 is: 1.986
+Discharge_power at 356 is: 0.0
+
+Capacity at 357 is: 999.787
+Produced: 0.213
+price: 16.149
+Charge_power at 357 is: 0.213
+Discharge_power at 357 is: 200.0
+
+Capacity at 358 is: 800.0
+Produced: 0.0
+price: 12.407
+Charge_power at 358 is: 0.0
+Discharge_power at 358 is: 0.0
+
+Capacity at 359 is: 800.0
+Produced: 0.0
+price: 8.56
+Charge_power at 359 is: 0.0
+Discharge_power at 359 is: 0.0
+
+Capacity at 360 is: 800.0
+Produced: 0.0
+price: 8.559
+Charge_power at 360 is: 0.0
+Discharge_power at 360 is: 0.0
+
+Capacity at 361 is: 800.0
+Produced: 0.0
+price: 7.559
+Charge_power at 361 is: 0.0
+Discharge_power at 361 is: 0.0
+
+Capacity at 362 is: 800.0
+Produced: 0.0
+price: 4.934
+Charge_power at 362 is: 0.0
+Discharge_power at 362 is: 0.0
+
+Capacity at 363 is: 800.0
+Produced: 0.0
+price: 4.953
+Charge_power at 363 is: 0.0
+Discharge_power at 363 is: 0.0
+
+Capacity at 364 is: 800.0
+Produced: 0.033
+price: 4.968
+Charge_power at 364 is: 0.033
+Discharge_power at 364 is: 0.0
+
+Capacity at 365 is: 800.033
+Produced: 0.706
+price: 6.432
+Charge_power at 365 is: 0.706
+Discharge_power at 365 is: 0.0
+
+Capacity at 366 is: 800.739
+Produced: 2.058
+price: 6.915
+Charge_power at 366 is: 2.058
+Discharge_power at 366 is: 0.0
+
+Capacity at 367 is: 802.797
+Produced: 1.607
+price: 11.664
+Charge_power at 367 is: 1.607
+Discharge_power at 367 is: 0.0
+
+Capacity at 368 is: 804.404
+Produced: 2.737
+price: 11.891
+Charge_power at 368 is: 2.737
+Discharge_power at 368 is: 0.0
+
+Capacity at 369 is: 807.141
+Produced: 3.673
+price: 11.954
+Charge_power at 369 is: 3.673
+Discharge_power at 369 is: 0.0
+
+Capacity at 370 is: 810.814
+Produced: 5.247
+price: 10.332
+Charge_power at 370 is: 5.247
+Discharge_power at 370 is: 0.0
+
+Capacity at 371 is: 816.061
+Produced: 5.623
+price: 8.109
+Charge_power at 371 is: 5.623
+Discharge_power at 371 is: 0.0
+
+Capacity at 372 is: 821.684
+Produced: 5.151
+price: 6.71
+Charge_power at 372 is: 5.151
+Discharge_power at 372 is: 0.0
+
+Capacity at 373 is: 826.835
+Produced: 7.029
+price: 9.881
+Charge_power at 373 is: 7.029
+Discharge_power at 373 is: 0.0
+
+Capacity at 374 is: 833.864
+Produced: 5.947
+price: 8.559
+Charge_power at 374 is: 5.947
+Discharge_power at 374 is: 0.0
+
+Capacity at 375 is: 839.811
+Produced: 8.547
+price: 2.227
+Charge_power at 375 is: 8.547
+Discharge_power at 375 is: 0.0
+
+Capacity at 376 is: 848.358
+Produced: 3.258
+price: 1.229
+Charge_power at 376 is: 3.258
+Discharge_power at 376 is: 0.0
+
+Capacity at 377 is: 851.616
+Produced: 2.615
+price: 8.559
+Charge_power at 377 is: 2.615
+Discharge_power at 377 is: 0.0
+
+Capacity at 378 is: 854.231
+Produced: 3.221
+price: 8.56
+Charge_power at 378 is: 3.221
+Discharge_power at 378 is: 0.0
+
+Capacity at 379 is: 857.452
+Produced: 2.018
+price: 8.559
+Charge_power at 379 is: 2.018
+Discharge_power at 379 is: 0.0
+
+Capacity at 380 is: 859.47
+Produced: 1.656
+price: 11.465
+Charge_power at 380 is: 1.656
+Discharge_power at 380 is: 0.0
+
+Capacity at 381 is: 861.126
+Produced: 0.331
+price: 16.528
+Charge_power at 381 is: 0.331
+Discharge_power at 381 is: 200.0
+
+Capacity at 382 is: 661.457
+Produced: 0.0
+price: 8.56
+Charge_power at 382 is: 0.0
+Discharge_power at 382 is: 0.0
+
+Capacity at 383 is: 661.457
+Produced: 0.0
+price: 8.56
+Charge_power at 383 is: 0.0
+Discharge_power at 383 is: 0.0
+
+Capacity at 384 is: 661.457
+Produced: 0.0
+price: 5.004
+Charge_power at 384 is: 0.0
+Discharge_power at 384 is: 0.0
+
+Capacity at 385 is: 661.457
+Produced: 0.0
+price: 7.748
+Charge_power at 385 is: 0.0
+Discharge_power at 385 is: 0.0
+
+Capacity at 386 is: 661.457
+Produced: 0.0
+price: 7.084
+Charge_power at 386 is: 0.0
+Discharge_power at 386 is: 0.0
+
+Capacity at 387 is: 661.457
+Produced: 0.0
+price: 5.144
+Charge_power at 387 is: 0.0
+Discharge_power at 387 is: 0.0
+
+Capacity at 388 is: 661.457
+Produced: 0.005
+price: 6.78
+Charge_power at 388 is: 0.005
+Discharge_power at 388 is: 0.0
+
+Capacity at 389 is: 661.462
+Produced: 0.606
+price: 5.56
+Charge_power at 389 is: 0.606
+Discharge_power at 389 is: 0.0
+
+Capacity at 390 is: 662.068
+Produced: 1.064
+price: 7.983
+Charge_power at 390 is: 1.064
+Discharge_power at 390 is: 0.0
+
+Capacity at 391 is: 663.132
+Produced: 1.467
+price: 11.468
+Charge_power at 391 is: 1.467
+Discharge_power at 391 is: 0.0
+
+Capacity at 392 is: 664.599
+Produced: 3.294
+price: 13.184
+Charge_power at 392 is: 3.294
+Discharge_power at 392 is: 200.0
+
+Capacity at 393 is: 467.893
+Produced: 8.156
+price: 12.33
+Charge_power at 393 is: 8.156
+Discharge_power at 393 is: 0.0
+
+Capacity at 394 is: 476.049
+Produced: 10.642
+price: 4.925
+Charge_power at 394 is: 10.642
+Discharge_power at 394 is: 0.0
+
+Capacity at 395 is: 486.691
+Produced: 14.878
+price: 0.296
+Charge_power at 395 is: 14.878
+Discharge_power at 395 is: 0.0
+
+Capacity at 396 is: 501.569
+Produced: 28.669
+price: 0.163
+Charge_power at 396 is: 28.669
+Discharge_power at 396 is: 0.0
+
+Capacity at 397 is: 530.238
+Produced: 32.205
+price: 0.048
+Charge_power at 397 is: 32.205
+Discharge_power at 397 is: 0.0
+
+Capacity at 398 is: 562.443
+Produced: 44.818
+price: 0.005
+Charge_power at 398 is: 44.818
+Discharge_power at 398 is: 0.0
+
+Capacity at 399 is: 607.261
+Produced: 39.236
+price: 0.008
+Charge_power at 399 is: 39.236
+Discharge_power at 399 is: 0.0
+
+Capacity at 400 is: 646.497
+Produced: 23.467
+price: 3.124
+Charge_power at 400 is: 23.467
+Discharge_power at 400 is: 0.0
+
+Capacity at 401 is: 669.964
+Produced: 13.904
+price: 5.144
+Charge_power at 401 is: 13.904
+Discharge_power at 401 is: 0.0
+
+Capacity at 402 is: 683.868
+Produced: 5.1
+price: 7.909
+Charge_power at 402 is: 5.1
+Discharge_power at 402 is: 0.0
+
+Capacity at 403 is: 688.968
+Produced: 0.631
+price: 10.286
+Charge_power at 403 is: 0.631
+Discharge_power at 403 is: 0.0
+
+Capacity at 404 is: 689.599
+Produced: 0.225
+price: 12.553
+Charge_power at 404 is: 0.225
+Discharge_power at 404 is: 125.559
+
+Capacity at 405 is: 564.265
+Produced: 0.093
+price: 14.273
+Charge_power at 405 is: 0.093
+Discharge_power at 405 is: 200.0
+
+Capacity at 406 is: 364.358
+Produced: 0.0
+price: 12.704
+Charge_power at 406 is: 0.0
+Discharge_power at 406 is: 200.0
+
+Capacity at 407 is: 164.358
+Produced: 0.0
+price: 11.1
+Charge_power at 407 is: 0.0
+Discharge_power at 407 is: 0.0
+
+Capacity at 408 is: 164.358
+Produced: 0.0
+price: 8.47
+Charge_power at 408 is: 0.0
+Discharge_power at 408 is: 0.0
+
+Capacity at 409 is: 164.358
+Produced: 0.0
+price: 8.549
+Charge_power at 409 is: 0.0
+Discharge_power at 409 is: 0.0
+
+Capacity at 410 is: 164.358
+Produced: 0.0
+price: 8.549
+Charge_power at 410 is: 0.0
+Discharge_power at 410 is: 0.0
+
+Capacity at 411 is: 164.358
+Produced: 0.0
+price: 8.549
+Charge_power at 411 is: 0.0
+Discharge_power at 411 is: 0.0
+
+Capacity at 412 is: 164.358
+Produced: 0.136
+price: 8.549
+Charge_power at 412 is: 0.136
+Discharge_power at 412 is: 0.0
+
+Capacity at 413 is: 164.494
+Produced: 2.76
+price: 8.549
+Charge_power at 413 is: 2.76
+Discharge_power at 413 is: 0.0
+
+Capacity at 414 is: 167.254
+Produced: 5.414
+price: 9.806
+Charge_power at 414 is: 5.414
+Discharge_power at 414 is: 0.0
+
+Capacity at 415 is: 172.668
+Produced: 7.187
+price: 10.639
+Charge_power at 415 is: 7.187
+Discharge_power at 415 is: 0.0
+
+Capacity at 416 is: 179.855
+Produced: 20.145
+price: 13.795
+Charge_power at 416 is: 20.145
+Discharge_power at 416 is: 200.0
+
+Capacity at 417 is: 5.6843418860808e-14
+Produced: 31.277
+price: 8.549
+Charge_power at 417 is: 31.277
+Discharge_power at 417 is: 0.0
+
+Capacity at 418 is: 31.2770000000001
+Produced: 36.089
+price: 0.021
+Charge_power at 418 is: 36.089
+Discharge_power at 418 is: 0.0
+
+Capacity at 419 is: 67.3660000000001
+Produced: 39.017
+price: 0.172
+Charge_power at 419 is: 39.017
+Discharge_power at 419 is: 0.0
+
+Capacity at 420 is: 106.383
+Produced: 37.923
+price: 0.228
+Charge_power at 420 is: 37.923
+Discharge_power at 420 is: 0.0
+
+Capacity at 421 is: 144.306
+Produced: 45.673
+price: 0.28
+Charge_power at 421 is: 45.673
+Discharge_power at 421 is: 0.0
+
+Capacity at 422 is: 189.979
+Produced: 43.902
+price: 0.321
+Charge_power at 422 is: 43.902
+Discharge_power at 422 is: 0.0
+
+Capacity at 423 is: 233.881
+Produced: 38.687
+price: 0.414
+Charge_power at 423 is: 38.687
+Discharge_power at 423 is: 0.0
+
+Capacity at 424 is: 272.568
+Produced: 40.346
+price: 0.463
+Charge_power at 424 is: 40.346
+Discharge_power at 424 is: 0.0
+
+Capacity at 425 is: 312.914
+Produced: 30.235
+price: 0.582
+Charge_power at 425 is: 30.235
+Discharge_power at 425 is: 0.0
+
+Capacity at 426 is: 343.149
+Produced: 16.796
+price: 8.484
+Charge_power at 426 is: 16.796
+Discharge_power at 426 is: 0.0
+
+Capacity at 427 is: 359.945
+Produced: 6.085
+price: 11.501
+Charge_power at 427 is: 6.085
+Discharge_power at 427 is: 0.0
+
+Capacity at 428 is: 366.03
+Produced: 2.587
+price: 12.006
+Charge_power at 428 is: 2.587
+Discharge_power at 428 is: 0.0
+
+Capacity at 429 is: 368.617
+Produced: 0.415
+price: 15.017
+Charge_power at 429 is: 0.415
+Discharge_power at 429 is: 200.0
+
+Capacity at 430 is: 169.032
+Produced: 0.0
+price: 12.007
+Charge_power at 430 is: 0.0
+Discharge_power at 430 is: 169.032
+
+Capacity at 431 is: 0.0
+Produced: 0.0
+price: 10.961
+Charge_power at 431 is: 0.0
+Discharge_power at 431 is: 0.0
+
+Capacity at 432 is: 0.0
+Produced: 0.0
+price: 9.876
+Charge_power at 432 is: 0.0
+Discharge_power at 432 is: 0.0
+
+Capacity at 433 is: 0.0
+Produced: 0.0
+price: 8.54
+Charge_power at 433 is: 0.0
+Discharge_power at 433 is: 0.0
+
+Capacity at 434 is: 0.0
+Produced: 0.0
+price: 8.32
+Charge_power at 434 is: 0.0
+Discharge_power at 434 is: 0.0
+
+Capacity at 435 is: 0.0
+Produced: 0.0
+price: 8.023
+Charge_power at 435 is: 0.0
+Discharge_power at 435 is: 0.0
+
+Capacity at 436 is: 0.0
+Produced: 0.161
+price: 7.703
+Charge_power at 436 is: 0.161
+Discharge_power at 436 is: 0.0
+
+Capacity at 437 is: 0.161
+Produced: 1.749
+price: 8.386
+Charge_power at 437 is: 1.749
+Discharge_power at 437 is: 0.0
+
+Capacity at 438 is: 1.91
+Produced: 4.252
+price: 9.889
+Charge_power at 438 is: 4.252
+Discharge_power at 438 is: 0.0
+
+Capacity at 439 is: 6.162
+Produced: 10.065
+price: 11.036
+Charge_power at 439 is: 10.065
+Discharge_power at 439 is: 0.0
+
+Capacity at 440 is: 16.227
+Produced: 22.675
+price: 10.28
+Charge_power at 440 is: 22.675
+Discharge_power at 440 is: 0.0
+
+Capacity at 441 is: 38.902
+Produced: 35.485
+price: 10.193
+Charge_power at 441 is: 35.485
+Discharge_power at 441 is: 0.0
+
+Capacity at 442 is: 74.387
+Produced: 44.067
+price: 8.805
+Charge_power at 442 is: 44.067
+Discharge_power at 442 is: 0.0
+
+Capacity at 443 is: 118.454
+Produced: 48.186
+price: 3.991
+Charge_power at 443 is: 48.186
+Discharge_power at 443 is: 0.0
+
+Capacity at 444 is: 166.64
+Produced: 42.685
+price: 1.59
+Charge_power at 444 is: 42.685
+Discharge_power at 444 is: 0.0
+
+Capacity at 445 is: 209.325
+Produced: 43.411
+price: 0.999
+Charge_power at 445 is: 43.411
+Discharge_power at 445 is: 0.0
+
+Capacity at 446 is: 252.736
+Produced: 42.62
+price: 0.728
+Charge_power at 446 is: 42.62
+Discharge_power at 446 is: 0.0
+
+Capacity at 447 is: 295.356
+Produced: 47.133
+price: 0.476
+Charge_power at 447 is: 47.133
+Discharge_power at 447 is: 0.0
+
+Capacity at 448 is: 342.489
+Produced: 40.586
+price: 0.464
+Charge_power at 448 is: 40.586
+Discharge_power at 448 is: 0.0
+
+Capacity at 449 is: 383.075
+Produced: 29.181
+price: 0.601
+Charge_power at 449 is: 29.181
+Discharge_power at 449 is: 0.0
+
+Capacity at 450 is: 412.256
+Produced: 16.203
+price: 8.665
+Charge_power at 450 is: 16.203
+Discharge_power at 450 is: 0.0
+
+Capacity at 451 is: 428.459
+Produced: 6.078
+price: 11.518
+Charge_power at 451 is: 6.078
+Discharge_power at 451 is: 37.5909999999999
+
+Capacity at 452 is: 396.946
+Produced: 2.629
+price: 14.172
+Charge_power at 452 is: 2.629
+Discharge_power at 452 is: 200.0
+
+Capacity at 453 is: 199.575
+Produced: 0.425
+price: 11.593
+Charge_power at 453 is: 0.425
+Discharge_power at 453 is: 200.0
+
+Capacity at 454 is: 2.8421709430404e-14
+Produced: 0.0
+price: 10.502
+Charge_power at 454 is: 0.0
+Discharge_power at 454 is: 0.0
+
+Capacity at 455 is: 2.8421709430404e-14
+Produced: 0.0
+price: 9.979
+Charge_power at 455 is: 0.0
+Discharge_power at 455 is: 0.0
+
+Capacity at 456 is: 2.8421709430404e-14
+Produced: 0.0
+price: 8.578
+Charge_power at 456 is: 0.0
+Discharge_power at 456 is: 0.0
+
+Capacity at 457 is: 2.8421709430404e-14
+Produced: 0.0
+price: 7.874
+Charge_power at 457 is: 0.0
+Discharge_power at 457 is: 0.0
+
+Capacity at 458 is: 2.8421709430404e-14
+Produced: 0.0
+price: 7.4
+Charge_power at 458 is: 0.0
+Discharge_power at 458 is: 0.0
+
+Capacity at 459 is: 2.8421709430404e-14
+Produced: 0.0
+price: 6.808
+Charge_power at 459 is: 0.0
+Discharge_power at 459 is: 0.0
+
+Capacity at 460 is: 2.8421709430404e-14
+Produced: 0.122
+price: 6.575
+Charge_power at 460 is: 0.122
+Discharge_power at 460 is: 0.0
+
+Capacity at 461 is: 0.122000000000028
+Produced: 1.782
+price: 6.498
+Charge_power at 461 is: 1.782
+Discharge_power at 461 is: 0.0
+
+Capacity at 462 is: 1.90400000000003
+Produced: 4.595
+price: 6.548
+Charge_power at 462 is: 4.595
+Discharge_power at 462 is: 0.0
+
+Capacity at 463 is: 6.49900000000003
+Produced: 11.515
+price: 6.208
+Charge_power at 463 is: 11.515
+Discharge_power at 463 is: 0.0
+
+Capacity at 464 is: 18.014
+Produced: 23.192
+price: 0.437
+Charge_power at 464 is: 23.192
+Discharge_power at 464 is: 0.0
+
+Capacity at 465 is: 41.206
+Produced: 35.295
+price: 0.493
+Charge_power at 465 is: 35.295
+Discharge_power at 465 is: 0.0
+
+Capacity at 466 is: 76.501
+Produced: 45.051
+price: 0.495
+Charge_power at 466 is: 45.051
+Discharge_power at 466 is: 0.0
+
+Capacity at 467 is: 121.552
+Produced: 49.651
+price: 0.433
+Charge_power at 467 is: 49.651
+Discharge_power at 467 is: 0.0
+
+Capacity at 468 is: 171.203
+Produced: 49.78
+price: 0.038
+Charge_power at 468 is: 49.78
+Discharge_power at 468 is: 0.0
+
+Capacity at 469 is: 220.983
+Produced: 49.735
+price: -0.015
+Charge_power at 469 is: 49.735
+Discharge_power at 469 is: 0.0
+
+Capacity at 470 is: 270.718
+Produced: 49.791
+price: -0.055
+Charge_power at 470 is: 49.791
+Discharge_power at 470 is: 0.0
+
+Capacity at 471 is: 320.509
+Produced: 48.319
+price: -0.009
+Charge_power at 471 is: 48.319
+Discharge_power at 471 is: 0.0
+
+Capacity at 472 is: 368.828
+Produced: 40.243
+price: 0.0
+Charge_power at 472 is: 40.243
+Discharge_power at 472 is: 0.0
+
+Capacity at 473 is: 409.071
+Produced: 29.185
+price: 0.132
+Charge_power at 473 is: 29.185
+Discharge_power at 473 is: 0.0
+
+Capacity at 474 is: 438.256
+Produced: 16.049
+price: 2.594
+Charge_power at 474 is: 16.049
+Discharge_power at 474 is: 0.0
+
+Capacity at 475 is: 454.305
+Produced: 6.05
+price: 5.368
+Charge_power at 475 is: 6.05
+Discharge_power at 475 is: 0.0
+
+Capacity at 476 is: 460.355
+Produced: 2.815
+price: 7.844
+Charge_power at 476 is: 2.815
+Discharge_power at 476 is: 0.0
+
+Capacity at 477 is: 463.17
+Produced: 0.554
+price: 8.769
+Charge_power at 477 is: 0.554
+Discharge_power at 477 is: 0.0
+
+Capacity at 478 is: 463.724
+Produced: 0.003
+price: 8.106
+Charge_power at 478 is: 0.003
+Discharge_power at 478 is: 0.0
+
+Capacity at 479 is: 463.727
+Produced: 0.0
+price: 7.671
+Charge_power at 479 is: 0.0
+Discharge_power at 479 is: 0.0
+
+Capacity at 480 is: 463.727
+Produced: 0.0
+price: 7.126
+Charge_power at 480 is: 0.0
+Discharge_power at 480 is: 0.0
+
+Capacity at 481 is: 463.727
+Produced: 0.0
+price: 5.095
+Charge_power at 481 is: 0.0
+Discharge_power at 481 is: 0.0
+
+Capacity at 482 is: 463.727
+Produced: 0.0
+price: 3.908
+Charge_power at 482 is: 0.0
+Discharge_power at 482 is: 0.0
+
+Capacity at 483 is: 463.727
+Produced: 0.0
+price: 3.307
+Charge_power at 483 is: 0.0
+Discharge_power at 483 is: 0.0
+
+Capacity at 484 is: 463.727
+Produced: 0.17
+price: 2.807
+Charge_power at 484 is: 0.17
+Discharge_power at 484 is: 0.0
+
+Capacity at 485 is: 463.897
+Produced: 1.819
+price: 2.923
+Charge_power at 485 is: 1.819
+Discharge_power at 485 is: 0.0
+
+Capacity at 486 is: 465.716
+Produced: 4.36
+price: 2.758
+Charge_power at 486 is: 4.36
+Discharge_power at 486 is: 0.0
+
+Capacity at 487 is: 470.076
+Produced: 9.899
+price: 0.124
+Charge_power at 487 is: 9.899
+Discharge_power at 487 is: 0.0
+
+Capacity at 488 is: 479.975
+Produced: 21.837
+price: 0.257
+Charge_power at 488 is: 21.837
+Discharge_power at 488 is: 0.0
+
+Capacity at 489 is: 501.812
+Produced: 33.917
+price: 0.338
+Charge_power at 489 is: 33.917
+Discharge_power at 489 is: 0.0
+
+Capacity at 490 is: 535.729
+Produced: 43.665
+price: 0.214
+Charge_power at 490 is: 43.665
+Discharge_power at 490 is: 0.0
+
+Capacity at 491 is: 579.394
+Produced: 49.447
+price: 0.0
+Charge_power at 491 is: 49.447
+Discharge_power at 491 is: 0.0
+
+Capacity at 492 is: 628.841
+Produced: 49.717
+price: -0.048
+Charge_power at 492 is: 49.717
+Discharge_power at 492 is: 0.0
+
+Capacity at 493 is: 678.558
+Produced: 49.731
+price: -0.111
+Charge_power at 493 is: 49.731
+Discharge_power at 493 is: 0.0
+
+Capacity at 494 is: 728.289
+Produced: 44.714
+price: -0.111
+Charge_power at 494 is: 44.714
+Discharge_power at 494 is: 0.0
+
+Capacity at 495 is: 773.003
+Produced: 30.413
+price: -0.111
+Charge_power at 495 is: 30.413
+Discharge_power at 495 is: 0.0
+
+Capacity at 496 is: 803.416
+Produced: 32.676
+price: -0.111
+Charge_power at 496 is: 32.676
+Discharge_power at 496 is: 0.0
+
+Capacity at 497 is: 836.092
+Produced: 21.825
+price: -0.041
+Charge_power at 497 is: 21.825
+Discharge_power at 497 is: 0.0
+
+Capacity at 498 is: 857.917
+Produced: 8.651
+price: 0.222
+Charge_power at 498 is: 8.651
+Discharge_power at 498 is: 0.0
+
+Capacity at 499 is: 866.568
+Produced: 3.619
+price: 4.134
+Charge_power at 499 is: 3.619
+Discharge_power at 499 is: 0.0
+
+Capacity at 500 is: 870.187
+Produced: 1.405
+price: 8.549
+Charge_power at 500 is: 1.405
+Discharge_power at 500 is: 0.0
+
+Capacity at 501 is: 871.592
+Produced: 0.273
+price: 9.087
+Charge_power at 501 is: 0.273
+Discharge_power at 501 is: 0.0
+
+Capacity at 502 is: 871.865
+Produced: 0.0
+price: 8.882
+Charge_power at 502 is: 0.0
+Discharge_power at 502 is: 0.0
+
+Capacity at 503 is: 871.865
+Produced: 0.0
+price: 8.778
+Charge_power at 503 is: 0.0
+Discharge_power at 503 is: 0.0
+
+Capacity at 504 is: 871.865
+Produced: 0.0
+price: 7.691
+Charge_power at 504 is: 0.0
+Discharge_power at 504 is: 0.0
+
+Capacity at 505 is: 871.865
+Produced: 0.0
+price: 7.194
+Charge_power at 505 is: 0.0
+Discharge_power at 505 is: 0.0
+
+Capacity at 506 is: 871.865
+Produced: 0.0
+price: 6.665
+Charge_power at 506 is: 0.0
+Discharge_power at 506 is: 0.0
+
+Capacity at 507 is: 871.865
+Produced: 0.0
+price: 6.774
+Charge_power at 507 is: 0.0
+Discharge_power at 507 is: 0.0
+
+Capacity at 508 is: 871.865
+Produced: 0.141
+price: 7.181
+Charge_power at 508 is: 0.141
+Discharge_power at 508 is: 0.0
+
+Capacity at 509 is: 872.006
+Produced: 1.158
+price: 7.299
+Charge_power at 509 is: 1.158
+Discharge_power at 509 is: 0.0
+
+Capacity at 510 is: 873.164
+Produced: 3.599
+price: 9.839
+Charge_power at 510 is: 3.599
+Discharge_power at 510 is: 0.0
+
+Capacity at 511 is: 876.763
+Produced: 9.693
+price: 11.026
+Charge_power at 511 is: 9.693
+Discharge_power at 511 is: 200.0
+
+Capacity at 512 is: 686.456
+Produced: 22.722
+price: 7.692
+Charge_power at 512 is: 22.722
+Discharge_power at 512 is: 0.0
+
+Capacity at 513 is: 709.178
+Produced: 34.767
+price: 8.818
+Charge_power at 513 is: 34.767
+Discharge_power at 513 is: 0.0
+
+Capacity at 514 is: 743.945
+Produced: 36.844
+price: 8.054
+Charge_power at 514 is: 36.844
+Discharge_power at 514 is: 0.0
+
+Capacity at 515 is: 780.789
+Produced: 26.298
+price: 5.731
+Charge_power at 515 is: 26.298
+Discharge_power at 515 is: 0.0
+
+Capacity at 516 is: 807.087
+Produced: 28.271
+price: 5.995
+Charge_power at 516 is: 28.271
+Discharge_power at 516 is: 0.0
+
+Capacity at 517 is: 835.358
+Produced: 28.143
+price: 2.007
+Charge_power at 517 is: 28.143
+Discharge_power at 517 is: 0.0
+
+Capacity at 518 is: 863.501
+Produced: 9.869
+price: 1.724
+Charge_power at 518 is: 9.869
+Discharge_power at 518 is: 0.0
+
+Capacity at 519 is: 873.37
+Produced: 19.702
+price: 1.608
+Charge_power at 519 is: 19.702
+Discharge_power at 519 is: 0.0
+
+Capacity at 520 is: 893.072
+Produced: 40.415
+price: 8.639
+Charge_power at 520 is: 40.415
+Discharge_power at 520 is: 0.0
+
+Capacity at 521 is: 933.487
+Produced: 29.906
+price: 10.802
+Charge_power at 521 is: 29.906
+Discharge_power at 521 is: 0.0
+
+Capacity at 522 is: 963.393
+Produced: 4.422
+price: 11.007
+Charge_power at 522 is: 4.422
+Discharge_power at 522 is: 200.0
+
+Capacity at 523 is: 767.815
+Produced: 4.357
+price: 9.0
+Charge_power at 523 is: 4.357
+Discharge_power at 523 is: 0.0
+
+Capacity at 524 is: 772.172
+Produced: 2.549
+price: 10.801
+Charge_power at 524 is: 2.549
+Discharge_power at 524 is: 0.0
+
+Capacity at 525 is: 774.721
+Produced: 0.484
+price: 11.9
+Charge_power at 525 is: 0.484
+Discharge_power at 525 is: 200.0
+
+Capacity at 526 is: 575.205
+Produced: 0.001
+price: 11.28
+Charge_power at 526 is: 0.001
+Discharge_power at 526 is: 200.0
+
+Capacity at 527 is: 375.206
+Produced: 0.0
+price: 10.424
+Charge_power at 527 is: 0.0
+Discharge_power at 527 is: 0.0
+
+Capacity at 528 is: 375.206
+Produced: 0.0
+price: 8.448
+Charge_power at 528 is: 0.0
+Discharge_power at 528 is: 0.0
+
+Capacity at 529 is: 375.206
+Produced: 0.0
+price: 7.054
+Charge_power at 529 is: 0.0
+Discharge_power at 529 is: 0.0
+
+Capacity at 530 is: 375.206
+Produced: 0.0
+price: 6.571
+Charge_power at 530 is: 0.0
+Discharge_power at 530 is: 0.0
+
+Capacity at 531 is: 375.206
+Produced: 0.0
+price: 6.551
+Charge_power at 531 is: 0.0
+Discharge_power at 531 is: 0.0
+
+Capacity at 532 is: 375.206
+Produced: 0.241
+price: 6.212
+Charge_power at 532 is: 0.241
+Discharge_power at 532 is: 0.0
+
+Capacity at 533 is: 375.447
+Produced: 1.966
+price: 6.173
+Charge_power at 533 is: 1.966
+Discharge_power at 533 is: 0.0
+
+Capacity at 534 is: 377.413
+Produced: 4.494
+price: 7.676
+Charge_power at 534 is: 4.494
+Discharge_power at 534 is: 0.0
+
+Capacity at 535 is: 381.907
+Produced: 10.115
+price: 9.866
+Charge_power at 535 is: 10.115
+Discharge_power at 535 is: 0.0
+
+Capacity at 536 is: 392.022
+Produced: 21.997
+price: 10.539
+Charge_power at 536 is: 21.997
+Discharge_power at 536 is: 0.0
+
+Capacity at 537 is: 414.019
+Produced: 33.819
+price: 10.1
+Charge_power at 537 is: 33.819
+Discharge_power at 537 is: 0.0
+
+Capacity at 538 is: 447.838
+Produced: 42.903
+price: 9.175
+Charge_power at 538 is: 42.903
+Discharge_power at 538 is: 0.0
+
+Capacity at 539 is: 490.741
+Produced: 48.795
+price: 8.332
+Charge_power at 539 is: 48.795
+Discharge_power at 539 is: 0.0
+
+Capacity at 540 is: 539.536
+Produced: 49.408
+price: 7.274
+Charge_power at 540 is: 49.408
+Discharge_power at 540 is: 0.0
+
+Capacity at 541 is: 588.944
+Produced: 39.384
+price: 4.388
+Charge_power at 541 is: 39.384
+Discharge_power at 541 is: 0.0
+
+Capacity at 542 is: 628.328
+Produced: 38.981
+price: 2.404
+Charge_power at 542 is: 38.981
+Discharge_power at 542 is: 0.0
+
+Capacity at 543 is: 667.309
+Produced: 42.269
+price: 0.98
+Charge_power at 543 is: 42.269
+Discharge_power at 543 is: 0.0
+
+Capacity at 544 is: 709.578
+Produced: 21.271
+price: 8.639
+Charge_power at 544 is: 21.271
+Discharge_power at 544 is: 0.0
+
+Capacity at 545 is: 730.849
+Produced: 18.394
+price: 10.5
+Charge_power at 545 is: 18.394
+Discharge_power at 545 is: 0.0
+
+Capacity at 546 is: 749.243
+Produced: 8.269
+price: 9.509
+Charge_power at 546 is: 8.269
+Discharge_power at 546 is: 0.0
+
+Capacity at 547 is: 757.512
+Produced: 5.93
+price: 10.428
+Charge_power at 547 is: 5.93
+Discharge_power at 547 is: 0.0
+
+Capacity at 548 is: 763.442
+Produced: 3.21
+price: 10.805
+Charge_power at 548 is: 3.21
+Discharge_power at 548 is: 0.0
+
+Capacity at 549 is: 766.652
+Produced: 0.655
+price: 10.803
+Charge_power at 549 is: 0.655
+Discharge_power at 549 is: 0.0
+
+Capacity at 550 is: 767.307
+Produced: 0.002
+price: 10.086
+Charge_power at 550 is: 0.002
+Discharge_power at 550 is: 0.0
+
+Capacity at 551 is: 767.309
+Produced: 0.0
+price: 9.769
+Charge_power at 551 is: 0.0
+Discharge_power at 551 is: 0.0
+
+Capacity at 552 is: 767.309
+Produced: 0.0
+price: 6.573
+Charge_power at 552 is: 0.0
+Discharge_power at 552 is: 0.0
+
+Capacity at 553 is: 767.309
+Produced: 0.0
+price: 6.63
+Charge_power at 553 is: 0.0
+Discharge_power at 553 is: 0.0
+
+Capacity at 554 is: 767.309
+Produced: 0.0
+price: 6.601
+Charge_power at 554 is: 0.0
+Discharge_power at 554 is: 0.0
+
+Capacity at 555 is: 767.309
+Produced: 0.0
+price: 6.686
+Charge_power at 555 is: 0.0
+Discharge_power at 555 is: 0.0
+
+Capacity at 556 is: 767.309
+Produced: 0.238
+price: 6.752
+Charge_power at 556 is: 0.238
+Discharge_power at 556 is: 0.0
+
+Capacity at 557 is: 767.547
+Produced: 2.0
+price: 7.394
+Charge_power at 557 is: 2.0
+Discharge_power at 557 is: 0.0
+
+Capacity at 558 is: 769.547
+Produced: 4.555
+price: 8.433
+Charge_power at 558 is: 4.555
+Discharge_power at 558 is: 0.0
+
+Capacity at 559 is: 774.102
+Produced: 10.12
+price: 10.845
+Charge_power at 559 is: 10.12
+Discharge_power at 559 is: 0.0
+
+Capacity at 560 is: 784.222
+Produced: 21.769
+price: 12.415
+Charge_power at 560 is: 21.769
+Discharge_power at 560 is: 200.0
+
+Capacity at 561 is: 605.991
+Produced: 33.496
+price: 10.966
+Charge_power at 561 is: 33.496
+Discharge_power at 561 is: 4.31600000000026
+
+Capacity at 562 is: 635.171
+Produced: 43.09
+price: 8.52
+Charge_power at 562 is: 43.09
+Discharge_power at 562 is: 0.0
+
+Capacity at 563 is: 678.261
+Produced: 49.159
+price: 8.52
+Charge_power at 563 is: 49.159
+Discharge_power at 563 is: 0.0
+
+Capacity at 564 is: 727.42
+Produced: 47.485
+price: -0.107
+Charge_power at 564 is: 47.485
+Discharge_power at 564 is: 0.0
+
+Capacity at 565 is: 774.905
+Produced: 49.8
+price: -0.111
+Charge_power at 565 is: 49.8
+Discharge_power at 565 is: 0.0
+
+Capacity at 566 is: 824.705
+Produced: 49.173
+price: -0.111
+Charge_power at 566 is: 49.173
+Discharge_power at 566 is: 0.0
+
+Capacity at 567 is: 873.878
+Produced: 48.418
+price: -0.111
+Charge_power at 567 is: 48.418
+Discharge_power at 567 is: 0.0
+
+Capacity at 568 is: 922.296
+Produced: 31.488
+price: -0.111
+Charge_power at 568 is: 31.488
+Discharge_power at 568 is: 0.0
+
+Capacity at 569 is: 953.784
+Produced: 19.889
+price: -0.11
+Charge_power at 569 is: 19.889
+Discharge_power at 569 is: 0.0
+
+Capacity at 570 is: 973.673
+Produced: 19.618
+price: 10.52
+Charge_power at 570 is: 19.618
+Discharge_power at 570 is: 0.0
+
+Capacity at 571 is: 993.291
+Produced: 6.709
+price: 11.506
+Charge_power at 571 is: 6.709
+Discharge_power at 571 is: 3.00299999999993
+
+Capacity at 572 is: 996.997
+Produced: 3.003
+price: 16.647
+Charge_power at 572 is: 3.003
+Discharge_power at 572 is: 200.0
+
+Capacity at 573 is: 800.0
+Produced: 0.651
+price: 17.829
+Charge_power at 573 is: 0.651
+Discharge_power at 573 is: 200.0
+
+Capacity at 574 is: 600.651
+Produced: 0.006
+price: 14.983
+Charge_power at 574 is: 0.006
+Discharge_power at 574 is: 200.0
+
+Capacity at 575 is: 400.657
+Produced: 0.0
+price: 11.464
+Charge_power at 575 is: 0.0
+Discharge_power at 575 is: 0.0
+
+Capacity at 576 is: 400.657
+Produced: 0.0
+price: 8.473
+Charge_power at 576 is: 0.0
+Discharge_power at 576 is: 0.0
+
+Capacity at 577 is: 400.657
+Produced: 0.0
+price: 8.399
+Charge_power at 577 is: 0.0
+Discharge_power at 577 is: 0.0
+
+Capacity at 578 is: 400.657
+Produced: 0.0
+price: 8.399
+Charge_power at 578 is: 0.0
+Discharge_power at 578 is: 0.0
+
+Capacity at 579 is: 400.657
+Produced: 0.0
+price: 5.855
+Charge_power at 579 is: 0.0
+Discharge_power at 579 is: 0.0
+
+Capacity at 580 is: 400.657
+Produced: 0.242
+price: 5.04
+Charge_power at 580 is: 0.242
+Discharge_power at 580 is: 0.0
+
+Capacity at 581 is: 400.899
+Produced: 2.022
+price: 4.87
+Charge_power at 581 is: 2.022
+Discharge_power at 581 is: 0.0
+
+Capacity at 582 is: 402.921
+Produced: 4.969
+price: 5.04
+Charge_power at 582 is: 4.969
+Discharge_power at 582 is: 0.0
+
+Capacity at 583 is: 407.89
+Produced: 10.995
+price: 11.292
+Charge_power at 583 is: 10.995
+Discharge_power at 583 is: 0.0
+
+Capacity at 584 is: 418.885
+Produced: 20.039
+price: 12.149
+Charge_power at 584 is: 20.039
+Discharge_power at 584 is: 200.0
+
+Capacity at 585 is: 238.924
+Produced: 28.2
+price: 10.15
+Charge_power at 585 is: 28.2
+Discharge_power at 585 is: 0.0
+
+Capacity at 586 is: 267.124
+Produced: 31.219
+price: 6.161
+Charge_power at 586 is: 31.219
+Discharge_power at 586 is: 0.0
+
+Capacity at 587 is: 298.343
+Produced: 32.344
+price: 5.881
+Charge_power at 587 is: 32.344
+Discharge_power at 587 is: 0.0
+
+Capacity at 588 is: 330.687
+Produced: 32.135
+price: 4.5
+Charge_power at 588 is: 32.135
+Discharge_power at 588 is: 0.0
+
+Capacity at 589 is: 362.822
+Produced: 28.284
+price: 8.399
+Charge_power at 589 is: 28.284
+Discharge_power at 589 is: 0.0
+
+Capacity at 590 is: 391.106
+Produced: 13.96
+price: 8.399
+Charge_power at 590 is: 13.96
+Discharge_power at 590 is: 0.0
+
+Capacity at 591 is: 405.066
+Produced: 11.114
+price: 3.407
+Charge_power at 591 is: 11.114
+Discharge_power at 591 is: 0.0
+
+Capacity at 592 is: 416.18
+Produced: 9.951
+price: 0.409
+Charge_power at 592 is: 9.951
+Discharge_power at 592 is: 0.0
+
+Capacity at 593 is: 426.131
+Produced: 13.279
+price: 6.082
+Charge_power at 593 is: 13.279
+Discharge_power at 593 is: 0.0
+
+Capacity at 594 is: 439.41
+Produced: 9.384
+price: 8.4
+Charge_power at 594 is: 9.384
+Discharge_power at 594 is: 0.0
+
+Capacity at 595 is: 448.794
+Produced: 2.808
+price: 13.01
+Charge_power at 595 is: 2.808
+Discharge_power at 595 is: 200.0
+
+Capacity at 596 is: 251.602
+Produced: 2.697
+price: 10.405
+Charge_power at 596 is: 2.697
+Discharge_power at 596 is: 0.0
+
+Capacity at 597 is: 254.299
+Produced: 0.435
+price: 11.986
+Charge_power at 597 is: 0.435
+Discharge_power at 597 is: 74.0319999999999
+
+Capacity at 598 is: 180.702
+Produced: 0.002
+price: 10.608
+Charge_power at 598 is: 0.002
+Discharge_power at 598 is: 0.0
+
+Capacity at 599 is: 180.704
+Produced: 0.0
+price: 6.541
+Charge_power at 599 is: 0.0
+Discharge_power at 599 is: 0.0
+
+Capacity at 600 is: 180.704
+Produced: 0.0
+price: 5.932
+Charge_power at 600 is: 0.0
+Discharge_power at 600 is: 0.0
+
+Capacity at 601 is: 180.704
+Produced: 0.0
+price: 6.294
+Charge_power at 601 is: 0.0
+Discharge_power at 601 is: 0.0
+
+Capacity at 602 is: 180.704
+Produced: 0.0
+price: 6.186
+Charge_power at 602 is: 0.0
+Discharge_power at 602 is: 0.0
+
+Capacity at 603 is: 180.704
+Produced: 0.0
+price: 6.046
+Charge_power at 603 is: 0.0
+Discharge_power at 603 is: 0.0
+
+Capacity at 604 is: 180.704
+Produced: 0.216
+price: 0.409
+Charge_power at 604 is: 0.216
+Discharge_power at 604 is: 0.0
+
+Capacity at 605 is: 180.92
+Produced: 2.171
+price: 0.409
+Charge_power at 605 is: 2.171
+Discharge_power at 605 is: 0.0
+
+Capacity at 606 is: 183.091
+Produced: 5.419
+price: 2.205
+Charge_power at 606 is: 5.419
+Discharge_power at 606 is: 0.0
+
+Capacity at 607 is: 188.51
+Produced: 11.49
+price: 12.808
+Charge_power at 607 is: 11.49
+Discharge_power at 607 is: 200.0
+
+Capacity at 608 is: -2.8421709430404e-14
+Produced: 19.875
+price: 10.306
+Charge_power at 608 is: 19.875
+Discharge_power at 608 is: 0.0
+
+Capacity at 609 is: 19.875
+Produced: 33.045
+price: 9.5
+Charge_power at 609 is: 33.045
+Discharge_power at 609 is: 0.0
+
+Capacity at 610 is: 52.92
+Produced: 42.245
+price: 7.49
+Charge_power at 610 is: 42.245
+Discharge_power at 610 is: 0.0
+
+Capacity at 611 is: 95.165
+Produced: 46.452
+price: 3.854
+Charge_power at 611 is: 46.452
+Discharge_power at 611 is: 0.0
+
+Capacity at 612 is: 141.617
+Produced: 43.993
+price: 0.402
+Charge_power at 612 is: 43.993
+Discharge_power at 612 is: 0.0
+
+Capacity at 613 is: 185.61
+Produced: 35.36
+price: 0.405
+Charge_power at 613 is: 35.36
+Discharge_power at 613 is: 0.0
+
+Capacity at 614 is: 220.97
+Produced: 11.36
+price: 0.097
+Charge_power at 614 is: 11.36
+Discharge_power at 614 is: 0.0
+
+Capacity at 615 is: 232.33
+Produced: 23.538
+price: 0.0
+Charge_power at 615 is: 23.538
+Discharge_power at 615 is: 0.0
+
+Capacity at 616 is: 255.868
+Produced: 11.041
+price: 0.405
+Charge_power at 616 is: 11.041
+Discharge_power at 616 is: 0.0
+
+Capacity at 617 is: 266.909
+Produced: 15.296
+price: 0.942
+Charge_power at 617 is: 15.296
+Discharge_power at 617 is: 0.0
+
+Capacity at 618 is: 282.205
+Produced: 16.987
+price: 4.312
+Charge_power at 618 is: 16.987
+Discharge_power at 618 is: 0.0
+
+Capacity at 619 is: 299.192
+Produced: 7.347
+price: 8.09
+Charge_power at 619 is: 7.347
+Discharge_power at 619 is: 0.0
+
+Capacity at 620 is: 306.539
+Produced: 3.367
+price: 8.326
+Charge_power at 620 is: 3.367
+Discharge_power at 620 is: 0.0
+
+Capacity at 621 is: 309.906
+Produced: 0.941
+price: 11.285
+Charge_power at 621 is: 0.941
+Discharge_power at 621 is: 200.0
+
+Capacity at 622 is: 110.847
+Produced: 0.028
+price: 11.0
+Charge_power at 622 is: 0.028
+Discharge_power at 622 is: 104.108
+
+Capacity at 623 is: 6.767
+Produced: 0.0
+price: 9.95
+Charge_power at 623 is: 0.0
+Discharge_power at 623 is: 0.0
+
+Capacity at 624 is: 6.767
+Produced: 0.0
+price: 9.028
+Charge_power at 624 is: 0.0
+Discharge_power at 624 is: 0.0
+
+Capacity at 625 is: 6.767
+Produced: 0.0
+price: 8.754
+Charge_power at 625 is: 0.0
+Discharge_power at 625 is: 0.0
+
+Capacity at 626 is: 6.767
+Produced: 0.0
+price: 8.269
+Charge_power at 626 is: 0.0
+Discharge_power at 626 is: 0.0
+
+Capacity at 627 is: 6.767
+Produced: 0.0
+price: 8.27
+Charge_power at 627 is: 0.0
+Discharge_power at 627 is: 0.0
+
+Capacity at 628 is: 6.767
+Produced: 0.332
+price: 8.426
+Charge_power at 628 is: 0.332
+Discharge_power at 628 is: 0.0
+
+Capacity at 629 is: 7.099
+Produced: 2.16
+price: 8.767
+Charge_power at 629 is: 2.16
+Discharge_power at 629 is: 0.0
+
+Capacity at 630 is: 9.259
+Produced: 4.626
+price: 8.577
+Charge_power at 630 is: 4.626
+Discharge_power at 630 is: 0.0
+
+Capacity at 631 is: 13.885
+Produced: 10.538
+price: 8.27
+Charge_power at 631 is: 10.538
+Discharge_power at 631 is: 0.0
+
+Capacity at 632 is: 24.423
+Produced: 23.492
+price: 8.299
+Charge_power at 632 is: 23.492
+Discharge_power at 632 is: 0.0
+
+Capacity at 633 is: 47.915
+Produced: 35.905
+price: 7.261
+Charge_power at 633 is: 35.905
+Discharge_power at 633 is: 0.0
+
+Capacity at 634 is: 83.82
+Produced: 36.948
+price: 5.374
+Charge_power at 634 is: 36.948
+Discharge_power at 634 is: 0.0
+
+Capacity at 635 is: 120.768
+Produced: 28.604
+price: 1.633
+Charge_power at 635 is: 28.604
+Discharge_power at 635 is: 0.0
+
+Capacity at 636 is: 149.372
+Produced: 41.227
+price: 0.148
+Charge_power at 636 is: 41.227
+Discharge_power at 636 is: 0.0
+
+Capacity at 637 is: 190.599
+Produced: 38.06
+price: 0.404
+Charge_power at 637 is: 38.06
+Discharge_power at 637 is: 0.0
+
+Capacity at 638 is: 228.659
+Produced: 37.632
+price: 0.402
+Charge_power at 638 is: 37.632
+Discharge_power at 638 is: 0.0
+
+Capacity at 639 is: 266.291
+Produced: 35.439
+price: -0.162
+Charge_power at 639 is: 35.439
+Discharge_power at 639 is: 0.0
+
+Capacity at 640 is: 301.73
+Produced: 42.27
+price: 0.04
+Charge_power at 640 is: 42.27
+Discharge_power at 640 is: 0.0
+
+Capacity at 641 is: 344.0
+Produced: 31.181
+price: 0.226
+Charge_power at 641 is: 31.181
+Discharge_power at 641 is: 0.0
+
+Capacity at 642 is: 375.181
+Produced: 13.837
+price: 5.508
+Charge_power at 642 is: 13.837
+Discharge_power at 642 is: 0.0
+
+Capacity at 643 is: 389.018
+Produced: 7.009
+price: 8.485
+Charge_power at 643 is: 7.009
+Discharge_power at 643 is: 0.0
+
+Capacity at 644 is: 396.027
+Produced: 3.19
+price: 10.222
+Charge_power at 644 is: 3.19
+Discharge_power at 644 is: 0.0
+
+Capacity at 645 is: 399.217
+Produced: 0.767
+price: 12.193
+Charge_power at 645 is: 0.767
+Discharge_power at 645 is: 200.0
+
+Capacity at 646 is: 199.984
+Produced: 0.016
+price: 11.308
+Charge_power at 646 is: 0.016
+Discharge_power at 646 is: 200.0
+
+Capacity at 647 is: -2.8421709430404e-14
+Produced: 0.0
+price: 10.003
+Charge_power at 647 is: 0.0
+Discharge_power at 647 is: -2.8421709430404e-14
+
+Capacity at 648 is: 0.0
+Produced: 0.0
+price: 9.471
+Charge_power at 648 is: 0.0
+Discharge_power at 648 is: 0.0
+
+Capacity at 649 is: 0.0
+Produced: 0.0
+price: 8.5
+Charge_power at 649 is: 0.0
+Discharge_power at 649 is: 0.0
+
+Capacity at 650 is: 0.0
+Produced: 0.0
+price: 8.198
+Charge_power at 650 is: 0.0
+Discharge_power at 650 is: 0.0
+
+Capacity at 651 is: 0.0
+Produced: 0.0
+price: 7.996
+Charge_power at 651 is: 0.0
+Discharge_power at 651 is: 0.0
+
+Capacity at 652 is: 0.0
+Produced: 0.332
+price: 7.6
+Charge_power at 652 is: 0.332
+Discharge_power at 652 is: 0.0
+
+Capacity at 653 is: 0.332
+Produced: 2.272
+price: 7.599
+Charge_power at 653 is: 2.272
+Discharge_power at 653 is: 0.0
+
+Capacity at 654 is: 2.604
+Produced: 4.809
+price: 7.464
+Charge_power at 654 is: 4.809
+Discharge_power at 654 is: 0.0
+
+Capacity at 655 is: 7.413
+Produced: 10.289
+price: 6.944
+Charge_power at 655 is: 10.289
+Discharge_power at 655 is: 0.0
+
+Capacity at 656 is: 17.702
+Produced: 22.983
+price: 6.067
+Charge_power at 656 is: 22.983
+Discharge_power at 656 is: 0.0
+
+Capacity at 657 is: 40.685
+Produced: 35.69
+price: 3.679
+Charge_power at 657 is: 35.69
+Discharge_power at 657 is: 0.0
+
+Capacity at 658 is: 76.375
+Produced: 45.037
+price: 0.0
+Charge_power at 658 is: 45.037
+Discharge_power at 658 is: 0.0
+
+Capacity at 659 is: 121.412
+Produced: 49.651
+price: -0.308
+Charge_power at 659 is: 49.651
+Discharge_power at 659 is: 0.0
+
+Capacity at 660 is: 171.063
+Produced: 49.674
+price: -1.006
+Charge_power at 660 is: 49.674
+Discharge_power at 660 is: 0.0
+
+Capacity at 661 is: 220.737
+Produced: 49.694
+price: -1.003
+Charge_power at 661 is: 49.694
+Discharge_power at 661 is: 0.0
+
+Capacity at 662 is: 270.431
+Produced: 49.672
+price: -0.991
+Charge_power at 662 is: 49.672
+Discharge_power at 662 is: 0.0
+
+Capacity at 663 is: 320.103
+Produced: 48.395
+price: -1.0
+Charge_power at 663 is: 48.395
+Discharge_power at 663 is: 0.0
+
+Capacity at 664 is: 368.498
+Produced: 39.721
+price: -0.491
+Charge_power at 664 is: 39.721
+Discharge_power at 664 is: 0.0
+
+Capacity at 665 is: 408.219
+Produced: 28.337
+price: -0.504
+Charge_power at 665 is: 28.337
+Discharge_power at 665 is: 0.0
+
+Capacity at 666 is: 436.556
+Produced: 12.712
+price: -0.006
+Charge_power at 666 is: 12.712
+Discharge_power at 666 is: 0.0
+
+Capacity at 667 is: 449.268
+Produced: 8.268
+price: 5.0
+Charge_power at 667 is: 8.268
+Discharge_power at 667 is: 0.0
+
+Capacity at 668 is: 457.536
+Produced: 2.865
+price: 7.29
+Charge_power at 668 is: 2.865
+Discharge_power at 668 is: 0.0
+
+Capacity at 669 is: 460.401
+Produced: 0.638
+price: 10.542
+Charge_power at 669 is: 0.638
+Discharge_power at 669 is: 200.0
+
+Capacity at 670 is: 261.039
+Produced: 0.013
+price: 9.934
+Charge_power at 670 is: 0.013
+Discharge_power at 670 is: 200.0
+
+Capacity at 671 is: 61.0520000000001
+Produced: 0.0
+price: 8.229
+Charge_power at 671 is: 0.0
+Discharge_power at 671 is: 0.0
+
+Capacity at 672 is: 61.0520000000001
+Produced: 0.0
+price: 6.95
+Charge_power at 672 is: 0.0
+Discharge_power at 672 is: 0.0
+
+Capacity at 673 is: 61.0520000000001
+Produced: 0.0
+price: 1.238
+Charge_power at 673 is: 0.0
+Discharge_power at 673 is: 0.0
+
+Capacity at 674 is: 61.0520000000001
+Produced: 0.0
+price: 0.408
+Charge_power at 674 is: 0.0
+Discharge_power at 674 is: 0.0
+
+Capacity at 675 is: 61.0520000000001
+Produced: 0.0
+price: 0.407
+Charge_power at 675 is: 0.0
+Discharge_power at 675 is: 0.0
+
+Capacity at 676 is: 61.0520000000001
+Produced: 0.355
+price: 0.409
+Charge_power at 676 is: 0.355
+Discharge_power at 676 is: 0.0
+
+Capacity at 677 is: 61.4070000000001
+Produced: 2.206
+price: 5.321
+Charge_power at 677 is: 2.206
+Discharge_power at 677 is: 0.0
+
+Capacity at 678 is: 63.6130000000001
+Produced: 4.857
+price: 6.256
+Charge_power at 678 is: 4.857
+Discharge_power at 678 is: 0.0
+
+Capacity at 679 is: 68.4700000000001
+Produced: 6.7
+price: 6.666
+Charge_power at 679 is: 6.7
+Discharge_power at 679 is: 0.0
+
+Capacity at 680 is: 75.1700000000001
+Produced: 8.874
+price: 5.871
+Charge_power at 680 is: 8.874
+Discharge_power at 680 is: 0.0
+
+Capacity at 681 is: 84.0440000000001
+Produced: 14.12
+price: 2.992
+Charge_power at 681 is: 14.12
+Discharge_power at 681 is: 0.0
+
+Capacity at 682 is: 98.1640000000001
+Produced: 31.201
+price: 0.403
+Charge_power at 682 is: 31.201
+Discharge_power at 682 is: 0.0
+
+Capacity at 683 is: 129.365
+Produced: 43.394
+price: 0.349
+Charge_power at 683 is: 43.394
+Discharge_power at 683 is: 0.0
+
+Capacity at 684 is: 172.759
+Produced: 46.111
+price: 0.23
+Charge_power at 684 is: 46.111
+Discharge_power at 684 is: 0.0
+
+Capacity at 685 is: 218.87
+Produced: 39.76
+price: 0.21
+Charge_power at 685 is: 39.76
+Discharge_power at 685 is: 0.0
+
+Capacity at 686 is: 258.63
+Produced: 31.61
+price: 0.187
+Charge_power at 686 is: 31.61
+Discharge_power at 686 is: 0.0
+
+Capacity at 687 is: 290.24
+Produced: 40.797
+price: 0.163
+Charge_power at 687 is: 40.797
+Discharge_power at 687 is: 0.0
+
+Capacity at 688 is: 331.037
+Produced: 40.52
+price: 0.168
+Charge_power at 688 is: 40.52
+Discharge_power at 688 is: 0.0
+
+Capacity at 689 is: 371.557
+Produced: 25.58
+price: 0.154
+Charge_power at 689 is: 25.58
+Discharge_power at 689 is: 0.0
+
+Capacity at 690 is: 397.137
+Produced: 16.83
+price: 5.761
+Charge_power at 690 is: 16.83
+Discharge_power at 690 is: 0.0
+
+Capacity at 691 is: 413.967
+Produced: 7.348
+price: 7.978
+Charge_power at 691 is: 7.348
+Discharge_power at 691 is: 0.0
+
+Capacity at 692 is: 421.315
+Produced: 3.387
+price: 8.23
+Charge_power at 692 is: 3.387
+Discharge_power at 692 is: 0.0
+
+Capacity at 693 is: 424.702
+Produced: 0.752
+price: 8.23
+Charge_power at 693 is: 0.752
+Discharge_power at 693 is: 0.0
+
+Capacity at 694 is: 425.454
+Produced: 0.014
+price: 8.23
+Charge_power at 694 is: 0.014
+Discharge_power at 694 is: 0.0
+
+Capacity at 695 is: 425.468
+Produced: 0.0
+price: 8.229
+Charge_power at 695 is: 0.0
+Discharge_power at 695 is: 0.0
+
+Capacity at 696 is: 425.468
+Produced: 0.0
+price: 7.727
+Charge_power at 696 is: 0.0
+Discharge_power at 696 is: 0.0
+
+Capacity at 697 is: 425.468
+Produced: 0.0
+price: 0.857
+Charge_power at 697 is: 0.0
+Discharge_power at 697 is: 0.0
+
+Capacity at 698 is: 425.468
+Produced: 0.0
+price: 0.806
+Charge_power at 698 is: 0.0
+Discharge_power at 698 is: 0.0
+
+Capacity at 699 is: 425.468
+Produced: 0.0
+price: 0.904
+Charge_power at 699 is: 0.0
+Discharge_power at 699 is: 0.0
+
+Capacity at 700 is: 425.468
+Produced: 0.199
+price: 0.84
+Charge_power at 700 is: 0.199
+Discharge_power at 700 is: 0.0
+
+Capacity at 701 is: 425.667
+Produced: 1.016
+price: 1.168
+Charge_power at 701 is: 1.016
+Discharge_power at 701 is: 0.0
+
+Capacity at 702 is: 426.683
+Produced: 4.547
+price: 8.209
+Charge_power at 702 is: 4.547
+Discharge_power at 702 is: 0.0
+
+Capacity at 703 is: 431.23
+Produced: 6.619
+price: 8.209
+Charge_power at 703 is: 6.619
+Discharge_power at 703 is: 0.0
+
+Capacity at 704 is: 437.849
+Produced: 9.327
+price: 11.796
+Charge_power at 704 is: 9.327
+Discharge_power at 704 is: 200.0
+
+Capacity at 705 is: 247.176
+Produced: 13.154
+price: 10.864
+Charge_power at 705 is: 13.154
+Discharge_power at 705 is: 200.0
+
+Capacity at 706 is: 60.3300000000001
+Produced: 19.557
+price: 9.006
+Charge_power at 706 is: 19.557
+Discharge_power at 706 is: 79.8870000000001
+
+Capacity at 707 is: 0.0
+Produced: 37.705
+price: 8.237
+Charge_power at 707 is: 37.705
+Discharge_power at 707 is: 0.0
+
+Capacity at 708 is: 37.705
+Produced: 41.914
+price: 7.027
+Charge_power at 708 is: 41.914
+Discharge_power at 708 is: 0.0
+
+Capacity at 709 is: 79.619
+Produced: 27.866
+price: 6.449
+Charge_power at 709 is: 27.866
+Discharge_power at 709 is: 0.0
+
+Capacity at 710 is: 107.485
+Produced: 49.717
+price: 5.736
+Charge_power at 710 is: 49.717
+Discharge_power at 710 is: 0.0
+
+Capacity at 711 is: 157.202
+Produced: 19.162
+price: 1.963
+Charge_power at 711 is: 19.162
+Discharge_power at 711 is: 0.0
+
+Capacity at 712 is: 176.364
+Produced: 27.622
+price: 1.31
+Charge_power at 712 is: 27.622
+Discharge_power at 712 is: 0.0
+
+Capacity at 713 is: 203.986
+Produced: 30.879
+price: 1.192
+Charge_power at 713 is: 30.879
+Discharge_power at 713 is: 0.0
+
+Capacity at 714 is: 234.865
+Produced: 17.366
+price: 0.955
+Charge_power at 714 is: 17.366
+Discharge_power at 714 is: 0.0
+
+Capacity at 715 is: 252.231
+Produced: 7.819
+price: 8.21
+Charge_power at 715 is: 7.819
+Discharge_power at 715 is: 0.0
+
+Capacity at 716 is: 260.05
+Produced: 3.48
+price: 8.21
+Charge_power at 716 is: 3.48
+Discharge_power at 716 is: 0.0
+
+Capacity at 717 is: 263.53
+Produced: 0.809
+price: 15.085
+Charge_power at 717 is: 0.809
+Discharge_power at 717 is: 200.0
+
+Capacity at 718 is: 64.339
+Produced: 0.02
+price: 8.21
+Charge_power at 718 is: 0.02
+Discharge_power at 718 is: 0.0
+
+Capacity at 719 is: 64.359
+Produced: 0.0
+price: 8.209
+Charge_power at 719 is: 0.0
+Discharge_power at 719 is: 0.0
+
+Capacity at 720 is: 64.359
+Produced: 0.0
+price: -0.129
+Charge_power at 720 is: 0.0
+Discharge_power at 720 is: 0.0
+
+Capacity at 721 is: 64.359
+Produced: 0.0
+price: -0.37
+Charge_power at 721 is: 0.0
+Discharge_power at 721 is: 0.0
+
+Capacity at 722 is: 64.359
+Produced: 0.0
+price: -0.384
+Charge_power at 722 is: 0.0
+Discharge_power at 722 is: 0.0
+
+Capacity at 723 is: 64.359
+Produced: 0.0
+price: -0.379
+Charge_power at 723 is: 0.0
+Discharge_power at 723 is: 0.0
+
+Capacity at 724 is: 64.359
+Produced: 0.366
+price: -0.413
+Charge_power at 724 is: 0.366
+Discharge_power at 724 is: 0.0
+
+Capacity at 725 is: 64.725
+Produced: 2.162
+price: -0.334
+Charge_power at 725 is: 2.162
+Discharge_power at 725 is: 0.0
+
+Capacity at 726 is: 66.887
+Produced: 4.789
+price: -0.258
+Charge_power at 726 is: 4.789
+Discharge_power at 726 is: 0.0
+
+Capacity at 727 is: 71.676
+Produced: 10.715
+price: -0.014
+Charge_power at 727 is: 10.715
+Discharge_power at 727 is: 0.0
+
+Capacity at 728 is: 82.391
+Produced: 23.043
+price: 0.034
+Charge_power at 728 is: 23.043
+Discharge_power at 728 is: 0.0
+
+Capacity at 729 is: 105.434
+Produced: 34.987
+price: 0.117
+Charge_power at 729 is: 34.987
+Discharge_power at 729 is: 0.0
+
+Capacity at 730 is: 140.421
+Produced: 44.629
+price: 0.12
+Charge_power at 730 is: 44.629
+Discharge_power at 730 is: 0.0
+
+Capacity at 731 is: 185.05
+Produced: 49.543
+price: 0.098
+Charge_power at 731 is: 49.543
+Discharge_power at 731 is: 0.0
+
+Capacity at 732 is: 234.593
+Produced: 49.276
+price: 0.011
+Charge_power at 732 is: 49.276
+Discharge_power at 732 is: 0.0
+
+Capacity at 733 is: 283.869
+Produced: 48.789
+price: 0.01
+Charge_power at 733 is: 48.789
+Discharge_power at 733 is: 0.0
+
+Capacity at 734 is: 332.658
+Produced: 22.022
+price: -0.002
+Charge_power at 734 is: 22.022
+Discharge_power at 734 is: 0.0
+
+Capacity at 735 is: 354.68
+Produced: 37.746
+price: -0.081
+Charge_power at 735 is: 37.746
+Discharge_power at 735 is: 0.0
+
+Capacity at 736 is: 392.426
+Produced: 17.472
+price: -0.017
+Charge_power at 736 is: 17.472
+Discharge_power at 736 is: 0.0
+
+Capacity at 737 is: 409.898
+Produced: 10.849
+price: 0.0
+Charge_power at 737 is: 10.849
+Discharge_power at 737 is: 0.0
+
+Capacity at 738 is: 420.747
+Produced: 11.075
+price: 8.239
+Charge_power at 738 is: 11.075
+Discharge_power at 738 is: 0.0
+
+Capacity at 739 is: 431.822
+Produced: 7.518
+price: 8.24
+Charge_power at 739 is: 7.518
+Discharge_power at 739 is: 0.0
+
+Capacity at 740 is: 439.34
+Produced: 4.099
+price: 11.903
+Charge_power at 740 is: 4.099
+Discharge_power at 740 is: 200.0
+
+Capacity at 741 is: 243.439
+Produced: 0.913
+price: 8.818
+Charge_power at 741 is: 0.913
+Discharge_power at 741 is: 44.366
+
+Capacity at 742 is: 199.986
+Produced: 0.014
+price: 8.24
+Charge_power at 742 is: 0.014
+Discharge_power at 742 is: 0.0
+
+Capacity at 743 is: 200.0
+Produced: 0.0
+price: 9.509
+Charge_power at 743 is: 0.0
+Discharge_power at 743 is: 200.0
+
+1452.0963199099997
